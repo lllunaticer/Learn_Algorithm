@@ -1,10 +1,12 @@
 public class Solution5 {
     public String longestPalindrome(String s) {
         String result = "";
+        //把king设置到中间
         double king = (double)s.length()/2-0.5;
         int soilder=1;
         int[] max_left_right= {0,0};
         int flag = 1;
+        //步长设置为0.5
         double king_Offset = 0.5;
 
         int left_soilder =1;
