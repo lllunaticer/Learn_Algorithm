@@ -34,6 +34,6 @@ public class Solution7 {
 
     public static void main(String[] args) {
         Solution7 a = new Solution7();
-        System.out.println(a.reverse(1463847412));
+        System.out.println(a.reverse(146384));
     }
 }
