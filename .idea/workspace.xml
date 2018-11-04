@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="第11题，暴力搜索复杂度为O(n^2),可以做到O(n)（注释部分）">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution12.java" />
+    <list default="true" id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Solution12.java" afterPath="$PROJECT_DIR$/src/Solution12.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -365,7 +365,7 @@
       <workItem from="1535784564998" duration="645000" />
       <workItem from="1535864355562" duration="8863000" />
       <workItem from="1541319168543" duration="1705000" />
-      <workItem from="1541322121476" duration="371000" />
+      <workItem from="1541322121476" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="第7题">
       <created>1535524831445</created>
@@ -388,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535962017111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第11题，暴力搜索复杂度为O(n^2),可以做到O(n)（注释部分）">
+      <created>1541322500045</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541322500045</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98283000" />
+    <option name="totallyTimeSpent" value="98299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
