@@ -1,0 +1,2 @@
+public class Solutuion12 {
+}
