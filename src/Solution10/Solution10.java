@@ -1,3 +1,5 @@
+package Solution10;
+
 //未实现 .* 条件，其他模式可以匹配
 public class Solution10 {
     public boolean isMatch(String s, String p) {
