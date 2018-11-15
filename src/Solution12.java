@@ -1,5 +1,4 @@
-
-public class Solution12{
+public class Solution12 {
     public String[] mark1 = {"I","IV","V","IX"};
     public String[] mark10 = {"X","XL","L","XC"};
     public String[] mark100 = {"C","CD","D","CM"};
@@ -29,26 +28,32 @@ public class Solution12{
         }
         else
             return "the input is invalid!";
-    }
+        }
 
-    private StringBuilder parse(int n, String[] mark, StringBuilder Roman){
-        if (n<=3) {
-            for(int i=n;i>0;i--){
-                Roman.append(mark[0]);
+        private StringBuilder parse(int n, String[] mark, StringBuilder Roman){
+            if (n<=3) {
+                for(int i=n;i>0;i--){
+                    Roman.append(mark[0]);
+                }
             }
-        }
-        if (n==4) {
-            Roman.append(mark[1]);
-        }
-        if (n>=5 && n<9) {
-            Roman.append(mark[2]);
-            for(int i=n-5;i>0;i--){
-                Roman.append(mark[0]);
+            if (n==4) {
+                Roman.append(mark[1]);
             }
+            if (n>=5 && n<9) {
+                Roman.append(mark[2]);
+                for(int i=n-5;i>0;i--){
+                    Roman.append(mark[0]);
+                }
+            }
+            if (n==9) {
+                Roman.append(mark[3]);
+            }
+            return Roman;
         }
-        if (n==9) {
-            Roman.append(mark[3]);
-        }
-        return Roman;
+
+    public static void main(String[] args) {
+        Solution12 foo = new Solution12();
+        System.out.println(foo.intToRoman(3999));
     }
 }
+
