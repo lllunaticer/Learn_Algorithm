@@ -1,9 +1,14 @@
+
 public class test {
     public static void main(String[] args){
-        int i;
-        for(i=0; i<=10;i++){
-            //System.out.println(i);
-        }
-        System.out.println(i);
+//        System.out.println(0xff>>>7);
+//        System.out.println(0xff);
+//        System.out.println(((byte)0xff)>>>7);
+//        System.out.println((byte)(((byte)0xff)>>>7));
+//
+//        System.out.println(1>>3);
+//        System.out.println(1L>>3);
+        System.out.println(Byte.MAX_VALUE);
+        System.out.println(Byte.MIN_VALUE);
     }
 }
