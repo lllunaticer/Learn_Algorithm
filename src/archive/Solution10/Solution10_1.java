@@ -1,4 +1,4 @@
-package Solution10;
+package archive.Solution10;
 
 public class Solution10_1 {
         public boolean isMatch(String text, String pattern) {

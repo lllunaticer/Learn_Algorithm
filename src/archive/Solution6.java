@@ -1,4 +1,5 @@
-import java.util.*;
+package archive;
+
 public class Solution6 {
     public String convert(String s, int numRows){
         StringBuilder result = new StringBuilder();

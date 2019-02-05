@@ -1,3 +1,5 @@
+package archive;
+
 import java.util.Arrays;
 
 /*Suppose you have a random list of people standing in a queue.

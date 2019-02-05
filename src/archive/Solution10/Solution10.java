@@ -1,4 +1,4 @@
-package Solution10;
+package archive.Solution10;
 
 //未实现 .* 条件，其他模式可以匹配
 public class Solution10 {

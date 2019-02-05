@@ -1,4 +1,4 @@
-package Solution10;
+package archive.Solution10;
 
 public class Solution10_3 {
     public static boolean isMatch(String s, String p) {

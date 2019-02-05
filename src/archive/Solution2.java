@@ -1,10 +1,13 @@
+package archive;
+
 class Solution2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result =  new ListNode(0);
         ListNode tail = result;
+        ListNode s = new ListNode(0);
         while(l1!=null||l2!=null){
-            if(l1==null) l1 = new ListNode(0);
-            if(l2==null) l2 = new ListNode(0);
+            if(l1==null) l1 = s;
+            if(l2==null) l2 = s;
             int r_temp= l1.val+l2.val+tail.val;
             if(r_temp>=10){
                 tail.val = r_temp%10;

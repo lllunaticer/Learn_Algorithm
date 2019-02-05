@@ -1,5 +1,7 @@
+package archive;
+
 /**better solution, from other committer in leecoder
- * class Solution {
+ * class archive.Solution {
  public int maxArea(int[] height) {
  int max = 0, vol=0;
  int i=0;

@@ -1,4 +1,4 @@
-package Solution10;
+package archive.Solution10;
 
 enum Result {
         TRUE, FALSE
