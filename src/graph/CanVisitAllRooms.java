@@ -44,6 +44,7 @@ package graph;
 import java.util.*;
 
 public class CanVisitAllRooms {
+//    BFS
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int length = rooms.size();
         int roomNum = 0;
@@ -61,6 +62,23 @@ public class CanVisitAllRooms {
             }
         }
         return length == visited.size();
+    }
+
+//    DFS
+    public boolean canvisiteAllRooms2(List<List<Integer>> rooms){
+        int length = rooms.size();
+        int roomNum = 0;
+        Set<Integer> keys  = new HashSet<>();
+        DFS(keys,roomNum,rooms);
+        return length==keys.size();
+    }
+
+    public void DFS(Set<Integer> k, int roomNum, List<List<Integer>> rooms){
+        k.add(roomNum);
+        for(Integer i: rooms.get(roomNum)){
+            if(!k.contains(i))
+                DFS(k, i, rooms);
+        }
     }
 //测试
     public static void main(String[] args) {
@@ -81,6 +99,6 @@ public class CanVisitAllRooms {
         l.add(l3);
         l.add(l4);
         CanVisitAllRooms c = new CanVisitAllRooms();
-        c.canVisitAllRooms(l);
+        c.canvisiteAllRooms2(l);
     }
 }
