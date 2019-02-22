@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="链表部分简单级题目做完">
-      <change afterPath="$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java" afterDir="false" />
+    <list default="true" id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="链表部分简单级题目做完啦">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution889.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution889.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/graph/CanVisitAllRooms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,13 +46,13 @@
         <option value="$PROJECT_DIR$/src/linkedList/IsPalindrome.java" />
         <option value="$PROJECT_DIR$/src/Solution2.java" />
         <option value="$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/graph/CanVisitAllRooms.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="156" />
-    <option name="y" value="195" />
-    <option name="width" value="930" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="428" />
+    <option name="width" value="1220" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -79,35 +63,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549359052865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550712613723" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,13 +85,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumbers">
+  <component name="RunManager" selected="Application.CanVisitAllRooms">
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedList.AddTwoNumbers" />
       <module name="leetcodepractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanVisitAllRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.CanVisitAllRooms" />
+      <module name="leetcodepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,9 +156,11 @@
       <item itemvalue="Application.DeleteDuplicates" />
       <item itemvalue="Application.MergeTwoLists" />
       <item itemvalue="Application.AddTwoNumbers" />
+      <item itemvalue="Application.CanVisitAllRooms" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CanVisitAllRooms" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.MergeTwoLists" />
         <item itemvalue="Application.DeleteDuplicates" />
@@ -218,7 +197,12 @@
       <workItem from="1549205195897" duration="865000" />
       <workItem from="1549209096649" duration="5303000" />
       <workItem from="1549270864356" duration="9710000" />
-      <workItem from="1549359092727" duration="478000" />
+      <workItem from="1549359092727" duration="1689000" />
+      <workItem from="1550324510564" duration="9511000" />
+      <workItem from="1550711862946" duration="1276000" />
+      <workItem from="1550734627862" duration="752000" />
+      <workItem from="1550751285970" duration="596000" />
+      <workItem from="1550834559005" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="链表部分简单级题目做完">
       <created>1549209972579</created>
@@ -227,26 +211,26 @@
       <option name="project" value="LOCAL" />
       <updated>1549209972579</updated>
     </task>
-    <task id="LOCAL-00002" summary="第10题，部分实现；.*模式没有实现，递归解答这题漂亮又优雅，参见leetcode上的答案">
-      <created>1535961991074</created>
+    <task id="LOCAL-00002" summary="链表部分简单级题目做完啦">
+      <created>1549359591687</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1535961991074</updated>
+      <updated>1549359591687</updated>
     </task>
-    <task id="LOCAL-00003" summary="第10题，部分实现；.*模式没有实现，递归解答这题漂亮又优雅，参见leetcode上的答案">
-      <created>1535962017111</created>
+    <task id="LOCAL-00003" summary="841. Keys and Rooms">
+      <created>1550329103090</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1535962017111</updated>
+      <updated>1550329103090</updated>
     </task>
-    <task id="LOCAL-00004" summary="第11题，暴力搜索复杂度为O(n^2),可以做到O(n)（注释部分）">
-      <created>1541322500045</created>
+    <task id="LOCAL-00004" summary="841DFS">
+      <created>1550395376817</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1541322500045</updated>
+      <updated>1550395376817</updated>
     </task>
     <task id="LOCAL-00005" summary="第11题，暴力搜索复杂度为O(n^2),可以做到O(n)（注释部分）">
       <created>1541322515975</created>
@@ -255,11 +239,11 @@
       <option name="project" value="LOCAL" />
       <updated>1541322515975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31640000" />
+    <option name="totallyTimeSpent" value="45026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
@@ -269,7 +253,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22849083" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.13187589" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.3325967" />
@@ -278,8 +262,8 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.14209116" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.41420913" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.1769437" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39008042" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -338,7 +322,10 @@
     <MESSAGE value="第10题，部分实现；.*模式没有实现，递归解答这题漂亮又优雅，参见leetcode上的答案" />
     <MESSAGE value="第11题，暴力搜索复杂度为O(n^2),可以做到O(n)（注释部分）" />
     <MESSAGE value="链表部分简单级题目做完" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表部分简单级题目做完" />
+    <MESSAGE value="链表部分简单级题目做完啦" />
+    <MESSAGE value="841. Keys and Rooms" />
+    <MESSAGE value="841DFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="841DFS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,6 +335,12 @@
           <line>9</line>
           <properties />
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/graph/CanVisitAllRooms.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -505,6 +498,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/graph/CanVisitAllRooms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="72" column="35" selection-start-line="72" selection-start-column="35" selection-end-line="72" selection-end-column="35" />
         </state>
       </provider>
     </entry>
