@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Solution12.java" line="0" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="4道简单链表">
+    <list default="true" id="7cf21201-6cc2-4edf-81ba-b458dd063d90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/outField/S_expressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graph/CanVisitAllRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/HasCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedList/MiddleNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcodepractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodepractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution13$box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution406.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution889.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution406.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution889.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution889.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/test.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,15 +71,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Solution889.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="640">
+              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NumIsland.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-168">
+              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -79,54 +134,21 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>G:\leetcodepractice\src\Solution10</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution2.java" />
-        <option value="$PROJECT_DIR$/src/Solution1.java" />
-        <option value="$PROJECT_DIR$/src/Solution4_1.java" />
-        <option value="$PROJECT_DIR$/src/Solution5.java" />
-        <option value="$PROJECT_DIR$/src/Solution4.java" />
-        <option value="$PROJECT_DIR$/src/Solution6.java" />
-        <option value="$PROJECT_DIR$/src/Solution8.java" />
-        <option value="$PROJECT_DIR$/src/Solution3.java" />
-        <option value="$PROJECT_DIR$/src/Solution7.java" />
-        <option value="$PROJECT_DIR$/src/Solution9.java" />
-        <option value="$PROJECT_DIR$/src/Solution10.java" />
-        <option value="$PROJECT_DIR$/src/Solution10_1.java" />
-        <option value="$PROJECT_DIR$/src/Solution10_2.java" />
-        <option value="$PROJECT_DIR$/src/Solution10/Solution10.java" />
-        <option value="$PROJECT_DIR$/src/Solution10/Solution10_3.java" />
-        <option value="$PROJECT_DIR$/src/Solution11.java" />
-        <option value="$PROJECT_DIR$/src/Solution12.java" />
-        <option value="$PROJECT_DIR$/src/Solution35.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/Solution.java" />
-        <option value="$PROJECT_DIR$/tools/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/Solution406.java" />
-        <option value="$PROJECT_DIR$/src/Solution889.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/Solution707.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/GetIntersectionNode.java" />
-        <option value="$PROJECT_DIR$/src/linkedList/RemoveElements.java" />
+        <option value="$PROJECT_DIR$/src/NumIsland.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="703" />
-    <option name="y" value="-16" />
-    <option name="width" value="943" />
-    <option name="height" value="1087" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1327" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -148,6 +170,11 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcodepractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -162,19 +189,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550802123735" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\leetcodepractice\tools" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550805872271" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -188,114 +203,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveElements">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetIntersectionNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.GetIntersectionNode" />
+  <component name="RunManager">
+    <configuration name="NumIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumIsland" />
       <module name="leetcodepractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.LinkedList" />
-      <module name="leetcodepractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuickSort" />
-      <module name="leetcodepractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedList.RemoveElements" />
-      <module name="leetcodepractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution406" />
-      <module name="leetcodepractice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.Solution406" />
-      <item itemvalue="Application.LinkedList" />
-      <item itemvalue="Application.GetIntersectionNode" />
-      <item itemvalue="Application.RemoveElements" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveElements" />
-        <item itemvalue="Application.GetIntersectionNode" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.Solution406" />
-        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.NumIsland" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +251,7 @@
       <workItem from="1548124140196" duration="231000" />
       <workItem from="1548741346496" duration="35460000" />
       <workItem from="1550798612787" duration="665000" />
-      <workItem from="1550801892838" duration="244000" />
+      <workItem from="1550801892838" duration="3705000" />
     </task>
     <task id="LOCAL-00001" summary="第7题">
       <created>1535524831445</created>
@@ -412,21 +330,20 @@
       <option name="project" value="LOCAL" />
       <updated>1548855474213</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181312000" />
+    <option name="totallyTimeSpent" value="3065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10694598" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1339581" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5104167" side_tool="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32744282" />
@@ -435,8 +352,8 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.48958334" weight="0.2837838" />
-      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49791667" weight="0.3844469" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.48958334" visible="true" weight="0.37318087" />
+      <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49791667" weight="0.3835759" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -454,9 +371,6 @@
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第7题" />
     <MESSAGE value="12题" />
@@ -467,266 +381,23 @@
     <MESSAGE value="4道简单链表" />
     <option name="LAST_COMMIT_MESSAGE" value="4道简单链表" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution2.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution3.java</url>
-          <line>3</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution10/Solution10.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution.java</url>
-          <line>2</line>
-          <properties />
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/tools/QuickSort.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Solution406.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/LinkedList.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="93" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/linkedList/GetIntersectionNode.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution4_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="91" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1184">
-          <caret line="37" column="5" selection-start-line="34" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution10/Solution10_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution10/Solution10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution10/Solution10_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solutuion12.java" />
-    <entry file="file://$PROJECT_DIR$/src/Solution11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution35.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="49" column="37" selection-start-line="49" selection-start-column="37" selection-end-line="49" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution10/Solution10_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="19" column="5" selection-start-line="16" selection-start-column="3" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution406.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Solution889.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/GetIntersectionNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1312">
-          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="640">
+          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
