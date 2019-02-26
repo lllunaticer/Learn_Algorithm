@@ -1,69 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cf21201-6cc2-4edf-81ba-b458dd063d90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/outField/S_expressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumIsland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/CanVisitAllRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/DeleteDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/HasCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedList/MiddleNode.java" afterDir="false" />
+    <list default="true" id="7cf21201-6cc2-4edf-81ba-b458dd063d90" name="Default Changelist" comment="第200题岛屿的数量，曾是头条的面试题；&#10;本次用深度优先遍历解决，来源于其他答案，思想非常的巧妙；&#10;此外还可以用并查集解决这个问题">
+      <change afterPath="$PROJECT_DIR$/tools/UF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcodepractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodepractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution10/Solution10_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution13$box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution406.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution4_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution889.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/Solution9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution10/Solution10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution10/Solution10_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution406.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution406.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution889.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution889.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/Solution9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/archive/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumIsland.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,28 +16,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+        <entry file="file://$PROJECT_DIR$/tools/UF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/GetIntersectionNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1312">
-              <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+            <state relative-caret-position="64">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="20" />
+              <folding>
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,26 +32,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumIsland.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-168">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="335">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+              <folding>
+                <element signature="e#1615#1616#0" expanded="true" />
+                <element signature="e#1664#1665#0" expanded="true" />
+                <element signature="e#2841#2842#0" expanded="true" />
+                <element signature="e#2898#2899#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,13 +59,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/tools/UF.java" />
         <option value="$PROJECT_DIR$/src/NumIsland.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="124" />
+    <option name="y" value="121" />
     <option name="width" value="1327" />
     <option name="height" value="1100" />
   </component>
@@ -158,8 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,10 +104,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550805872271" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551189253040" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,7 +144,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="193c99fb-734d-48ad-8f5d-2c68bc866688" name="Default" comment="" />
+      <changelist id="7cf21201-6cc2-4edf-81ba-b458dd063d90" name="Default Changelist" comment="第200题岛屿的数量，曾是头条的面试题；&#10;本次用深度优先遍历解决，来源于其他答案，思想非常的巧妙；&#10;此外还可以用并查集解决这个问题" />
       <created>1535014379360</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -251,7 +173,8 @@
       <workItem from="1548124140196" duration="231000" />
       <workItem from="1548741346496" duration="35460000" />
       <workItem from="1550798612787" duration="665000" />
-      <workItem from="1550801892838" duration="3705000" />
+      <workItem from="1550801892838" duration="4619000" />
+      <workItem from="1551080105613" duration="9242000" />
     </task>
     <task id="LOCAL-00001" summary="第7题">
       <created>1535524831445</created>
@@ -333,17 +256,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3065000" />
+    <option name="totallyTimeSpent" value="13221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="124" y="121" width="1327" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1339581" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1949487" />
       <window_info id="Structure" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5104167" side_tool="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.32744282" />
@@ -352,7 +276,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.48958334" visible="true" weight="0.37318087" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.48958334" visible="true" weight="0.23809524" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49791667" weight="0.3835759" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -371,6 +295,9 @@
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第7题" />
     <MESSAGE value="12题" />
@@ -379,23 +306,77 @@
     <MESSAGE value="35题binary search &#10;简单类型，第一次刷题应该按类型来集中训练" />
     <MESSAGE value="第406题" />
     <MESSAGE value="4道简单链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="4道简单链表" />
+    <MESSAGE value="第200题岛屿的数量，曾是头条的面试题；&#10;本次用深度优先遍历解决，来源于其他答案，思想非常的巧妙；&#10;此外还可以用并查集解决这个问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="第200题岛屿的数量，曾是头条的面试题；&#10;本次用深度优先遍历解决，来源于其他答案，思想非常的巧妙；&#10;此外还可以用并查集解决这个问题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/RemoveElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/GetIntersectionNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="20" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumIsland.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="335">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+          <folding>
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#2841#2842#0" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
