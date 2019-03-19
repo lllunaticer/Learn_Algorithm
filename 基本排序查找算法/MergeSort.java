@@ -1,5 +1,6 @@
 //归并排序
 //时间复杂度O（NlogN）,空间复杂度O（N）
+//分治+外排的方法
 public class MergeSort {
     public static void mergeSort(int[] arr) {
         if (arr == null || arr.length < 2)
