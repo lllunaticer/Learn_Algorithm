@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backTracking/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backTracking/totalQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java" afterDir="false" />
+    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="单词接龙">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/Swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcodepractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodepractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/NumIsland$UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/NumIsland$UF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/NumIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/NumIsland.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +25,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="295">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基本排序查找算法/MergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="818">
+              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基本排序查找算法/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="51" selection-start-line="51" selection-end-line="55" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基本排序查找算法/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/基本排序查找算法/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-118">
+              <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/基本排序查找算法/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -47,14 +134,35 @@
         <option value="$PROJECT_DIR$/src/backTracking/NQueens.java" />
         <option value="$PROJECT_DIR$/src/backTracking/totalQueens.java" />
         <option value="$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java" />
+        <option value="$PROJECT_DIR$/src/NearestPalindromic.java" />
+        <option value="$PROJECT_DIR$/src/a.java" />
+        <option value="$PROJECT_DIR$/src/DynamicProgramming/Triangle.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/tools/QuickSort_oldVersion.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/InsertSort.java" />
+        <option value="$PROJECT_DIR$/牛客网算法进阶班/test.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/Solution1.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/草稿本/Swap.java" />
+        <option value="$PROJECT_DIR$/草稿本/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/MergeSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" />
+        <option value="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="106" />
-    <option name="y" value="-18" />
-    <option name="width" value="1845" />
-    <option name="height" value="1100" />
+    <option name="x" value="47" />
+    <option name="y" value="-25" />
+    <option name="width" value="1335" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,6 +181,22 @@
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="基本排序查找算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="草稿本" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="草稿本" type="462c0819:PsiDirectoryNode" />
+              <item name="排序草稿本" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -80,10 +204,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551700949645" />
-    <property name="settings.editor.selected.configurable" value="Images" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552985727064" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -97,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.wordsLadder">
-    <configuration name="NQueens (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backTracking.NQueens" />
+  <component name="RunManager" selected="Application.HeapSort (1)">
+    <configuration name="HeapSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.HeapSort" />
       <module name="leetcodepractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backTracking.*" />
+          <option name="PATTERN" value="排序草稿本.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +243,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueens" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeapSort" />
       <module name="leetcodepractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="totalQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backTracking.totalQueens" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.MergeSort" />
       <module name="leetcodepractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backTracking.*" />
+          <option name="PATTERN" value="排序草稿本.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,19 +263,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wordsLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wordsLadder" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.QuickSort" />
       <module name="leetcodepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序草稿本.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.SelectionSort" />
+      <module name="leetcodepractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序草稿本.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.wordsLadder" />
-        <item itemvalue="Application.totalQueens" />
-        <item itemvalue="Application.NQueens (1)" />
-        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.HeapSort (1)" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -169,17 +321,71 @@
       <workItem from="1551509972922" duration="8736000" />
       <workItem from="1551531636925" duration="1944000" />
       <workItem from="1551597503073" duration="583000" />
+      <workItem from="1551700752088" duration="12238000" />
+      <workItem from="1551749234036" duration="2943000" />
+      <workItem from="1551791629765" duration="1505000" />
+      <workItem from="1551843338734" duration="657000" />
+      <workItem from="1551864137555" duration="2508000" />
+      <workItem from="1552356080434" duration="6011000" />
+      <workItem from="1552371401713" duration="2432000" />
+      <workItem from="1552392695982" duration="4940000" />
+      <workItem from="1552436119086" duration="3973000" />
+      <workItem from="1552473856701" duration="7410000" />
+      <workItem from="1552489432578" duration="3218000" />
+      <workItem from="1552560907274" duration="889000" />
+      <workItem from="1552575873992" duration="10749000" />
+      <workItem from="1552699506843" duration="611000" />
+      <workItem from="1552788496877" duration="886000" />
+      <workItem from="1552836438669" duration="4264000" />
+      <workItem from="1552919101224" duration="1784000" />
+      <workItem from="1552960198903" duration="9081000" />
     </task>
+    <task id="LOCAL-00001" summary="单词接龙">
+      <created>1551700805560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551700805560</updated>
+    </task>
+    <task id="LOCAL-00002" summary="最小回文数">
+      <created>1551751735102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551751735102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="基本排序算法">
+      <created>1552468825719</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552468825719</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加入堆排序，完成快排">
+      <created>1552493322525</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552493322525</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加二分查找；">
+      <created>1552960607365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552960607365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27119000" />
+    <option name="totallyTimeSpent" value="103218000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="54" width="1476" height="880" extended-state="0" />
+    <frame x="-7" y="-7" width="1476" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1248237" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20733428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -188,8 +394,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858958" weight="0.04021448" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992948" weight="0.2761394" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858958" visible="true" weight="0.3941019" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992948" weight="0.43699732" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -197,8 +403,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50070524" side_tool="true" weight="0.46122995" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50070524" side_tool="true" weight="0.461126" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.21715818" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,6 +418,14 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="单词接龙" />
+    <MESSAGE value="最小回文数" />
+    <MESSAGE value="基本排序算法" />
+    <MESSAGE value="加入堆排序，完成快排" />
+    <MESSAGE value="添加二分查找；" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加二分查找；" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
@@ -268,12 +482,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java">
+    <entry file="file://$PROJECT_DIR$/src/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/NearestPalindromic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        <state relative-caret-position="416">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/堆排序.java" />
+    <entry file="file://$PROJECT_DIR$/tools/QuickSort_oldVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="25" selection-start-line="25" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="41" selection-end-line="5" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="26" selection-start-line="26" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/Swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="51" selection-start-line="51" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基本排序查找算法/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>leetcodepractice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

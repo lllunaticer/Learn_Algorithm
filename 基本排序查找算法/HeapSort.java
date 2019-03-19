@@ -13,6 +13,7 @@ public class HeapSort {
                 heapInsert(arr, i);
 
         int heapSize = arr.length;//堆的大小等于数组的长度
+        //交换堆顶和最后一个元素
         swap(arr, 0, --heapSize);
         while (heapSize > 0) {
             heapify(arr, 0, heapSize);
@@ -31,6 +32,7 @@ public class HeapSort {
     //    如果堆中有某个元素变小了，将这个元素下沉以保持大根堆的过程heapify
     static void heapify(int[] arr, int index, int heapSize) {
         int left = index * 2 + 1;//在用数组存储的堆中，节点i的左孩子节点是2*i+1, 右节点是2*i+2;
+        //这里heapSize是最后一个元素，做堆排的时候，因为是从堆顶交换来的最大值，所以重新heapify要把它排除在外；
         while (left < heapSize) {
             int largest = left + 1 < heapSize && arr[left + 1] > arr[left] ? left + 1 : left;
             largest = arr[index] > arr[largest] ? index : largest;
