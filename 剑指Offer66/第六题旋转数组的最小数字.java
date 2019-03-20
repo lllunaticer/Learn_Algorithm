@@ -33,8 +33,31 @@ public class 第六题旋转数组的最小数字 {
 最终第一个指针将指向前面数组的最后一个元素，第二个指针指向后面数组中的第一个元素。
 
 也就是说他们将指向两个相邻的元素，而第二个指针指向的刚好是最小的元素，这就是循环的结束条件。*/
-    public int minNumberInRotateArray(int [] array) {
-        return 0;
+    public static int minNumberInRotateArray(int[] array) {
+        int n = array.length - 1;
+        if (n < 0) return -1;
+        //将n指向旋转数组尾部元素，如果尾部有多个相等的元素，则指向其中第一个
+//        如 {3，4，5，6，1，1，2，2}则n指向倒数第二个2
+        while (n > 0 && array[n] == array[0]) n--;
+        int l = 0;
+        int r = n;
+//        如果最后一个比第一个元素大，说明0到n就是有序的，最小的就是array[0]
+        if(array[n]>=array[0]) return array[0];
+//        接下来使用二分查找
+        while (l < r) {
+            int mid = l + ((r-l)>>1);//使用查找模板[l,mid], [mid+1, r]
+            if(array[mid]<array[0])//如果array[mid]<array[0],则0和mid之间失序，mid属于右边有序数组，最小值出现在mid左边, 令 r = mid;
+                r = mid;
+            else//如果array[mid]>=array[0],则mid和0之间是有序数组，mid属于左边有序数组，最小值出现在mid右边, 令 l = mid+1;
+                l = mid + 1;
 
+        }
+//        return array[l];
+        return array[r];
+    }
+
+    public static void main(String[] args) {
+        int[] a = {1,1,2,3,3,4,5,6,6,1,1};
+        System.out.println(minNumberInRotateArray(a));
     }
 }

@@ -1,3 +1,4 @@
+//https://www.acwing.com/blog/content/114/
 //这个模板返回待查找元素在数组中的位置
 //如果没有匹配的元素，则返回离该元素最近的元素的位置.
 //第一个函数binarySearch_SmallestLarge返回的是离target最近的比target大的元素
