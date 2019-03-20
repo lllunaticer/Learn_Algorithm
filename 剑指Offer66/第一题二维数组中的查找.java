@@ -11,7 +11,7 @@ public class 第一题二维数组中的查找 {
             for (int i = 0; i < array.length; i++) {
                 if (array[i][0] > target || array[i][array.length - 1] < target)
                     continue;
-                else if (BinarySearch.binarySearch2(target, array[i]))
+                else if (二分查找_判断有无给定元素.binarySearch2(target, array[i]))
                     return true;
             }
             return false;
@@ -24,6 +24,6 @@ public class 第一题二维数组中的查找 {
 //        int[][] a = {{}};
 //        System.out.println(Find(1, a));
         int[] a = {1, 2, 8, 9};
-        System.out.println(BinarySearch.binarySearch(1, a, 0, a.length-1));
+        System.out.println(二分查找_判断有无给定元素.binarySearch(1, a, 0, a.length-1));
     }
 }

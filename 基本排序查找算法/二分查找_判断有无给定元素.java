@@ -1,4 +1,6 @@
-public class BinarySearch {
+
+//此二分查找用来判断给定数组中有无待查找对象
+public class 二分查找_判断有无给定元素 {
 //    递归
     static boolean binarySearch(int target, int[] list, int low, int high) {
         if (low > high)
@@ -19,7 +21,7 @@ public class BinarySearch {
         int left = 0;
         int right = list.length - 1;
         while (left <= right) {
-            int mid = left + ((right - left) >> 1);
+            int mid = left + ((right - left) >> 1);//
             if (list[mid] == target) {
                 return true;
             } else if (list[mid] > target) {
