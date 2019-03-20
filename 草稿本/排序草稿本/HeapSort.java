@@ -21,7 +21,7 @@ public class HeapSort {
     }
 
     static void heapInsert(int[] arr, int index){
-        while(arr[index]>arr[(index-1)>>1]){
+        while(arr[index]>arr[(index-1)/2]){
             Swap.swap(arr, index, (index-1)>>1);
             index = (index-1)>>1;
         }
