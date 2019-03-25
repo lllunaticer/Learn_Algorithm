@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/基本排序查找算法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/剑指Offer66" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/草稿本" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/面试算法题" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
