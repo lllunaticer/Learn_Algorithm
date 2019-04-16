@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/算法分类" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tools" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/outField" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/牛客网算法进阶班" isTestSource="false" />
@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/剑指Offer66" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/草稿本" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/面试算法题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/笔试题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Acwing上的算法竞赛进阶指南题" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

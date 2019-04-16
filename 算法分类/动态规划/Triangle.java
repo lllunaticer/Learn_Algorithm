@@ -16,7 +16,7 @@ Note:
 
 Bonus point if you are able to do this using only O(n) extra space, where n is the total number of rows in the triangle.
 * */
-package DynamicProgramming;
+package 动态规划;
 
 
 import java.util.List;

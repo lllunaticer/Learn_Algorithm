@@ -1,7 +1,4 @@
-package backTracking;
-
-import java.util.LinkedList;
-import java.util.List;
+package 回溯;
 
 public class totalQueens {
     static int count = 0;

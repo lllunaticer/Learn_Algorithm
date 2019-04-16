@@ -20,7 +20,7 @@ Output: [
 ]
 Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above.
 * */
-package backTracking;
+package 回溯;
 
 import java.util.LinkedList;
 import java.util.List;
