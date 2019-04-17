@@ -14,7 +14,7 @@
 public class 发散思维能力_求1加2加3加n {
     public int Sum_Solution(int n) {
         int sum = n;
-        boolean flag = (sum>0)&&((sum+=Sum_Solution(--n))>0);//短路特性， boolean值没有意义
+        boolean flag = (sum>0)&&((sum+=Sum_Solution(--n))>0); //短路特性， boolean值没有意义
         return sum;
     }
 }
