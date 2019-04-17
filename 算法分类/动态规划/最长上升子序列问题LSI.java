@@ -12,6 +12,7 @@ public class 最长上升子序列问题LSI {
         Scanner in  = new Scanner(System.in);
         while(in.hasNextLine()){
             String[] s = in.nextLine().split(",");
+            //为了方便编号，从1开始编号
             int[] arr = new int[s.length+1];
             int[] f = new int[s.length+1];
             for(int i = 1; i<=s.length; i++){
