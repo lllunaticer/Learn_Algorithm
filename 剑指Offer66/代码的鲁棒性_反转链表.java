@@ -1,7 +1,7 @@
 /*题目描述
 输入一个链表，反转链表后，输出新链表的表头。*/
 //解释见本文件夹下的 反转链表详细解释.png
-public class 第十四题反转链表 {
+public class 代码的鲁棒性_反转链表 {
     //    递归方法
     public ListNode ReverseList(ListNode head) {
         if (head == null || head.next == null)

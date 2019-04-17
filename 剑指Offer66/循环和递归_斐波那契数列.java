@@ -1,7 +1,7 @@
 /*题目描述
 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项（从0开始，第0项为0）。
 n<=39*/
-public class 第七题斐波那契数列 {
+public class 循环和递归_斐波那契数列 {
     public static int Fibonacci(int n) {
         int[] dp = new int[n + 1];
         return Fib(n, dp);

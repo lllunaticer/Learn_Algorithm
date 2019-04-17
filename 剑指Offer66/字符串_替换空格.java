@@ -1,6 +1,6 @@
 /*请实现一个函数，将一个字符串中的每个空格替换成“%20”。
 例如，当字符串为We Are Happy.则经过替换之后的字符串为We%20Are%20Happy。*/
-public class 第二题替换空格 {
+public class 字符串_替换空格 {
     public static String replaceSpace(StringBuffer str) {
         int size = str.length();
         for (int i = 0; i < size; i++) {
@@ -14,6 +14,6 @@ public class 第二题替换空格 {
     }
 
     public static void main(String[] args) {
-        System.out.println(第二题替换空格.replaceSpace(new StringBuffer("   I love you ")));
+        System.out.println(字符串_替换空格.replaceSpace(new StringBuffer("   I love you ")));
     }
 }

@@ -13,7 +13,7 @@ import java.util.LinkedList;
 * */
 /*
  * 时间复杂度， 每个元素只会进出窗口一次， 复杂度为O（N）*/
-public class 第十二题滑动窗口的最大值 {
+public class 栈和队列_滑动窗口的最大值 {
     static public ArrayList<Integer> maxInWindows(int[] num, int size) {
         ArrayList<Integer> res = new ArrayList<>();
         if (num.length == 0 || size == 0) {

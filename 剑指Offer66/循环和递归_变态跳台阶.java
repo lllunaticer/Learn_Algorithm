@@ -3,7 +3,7 @@
 一只青蛙一次可以跳上1级台阶，也可以跳上2级……它也可以跳上n级。
 求该青蛙跳上一个n级的台阶总共有多少种跳法。
 * */
-public class 第十题变态跳台阶 {
+public class 循环和递归_变态跳台阶 {
     //    递归
     static public int JumpFloorII(int target) {
         if (target < 2)

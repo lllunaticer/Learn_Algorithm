@@ -1,6 +1,6 @@
 //来自https://www.nowcoder.com/questionTerminal/cf7e25aa97c04cc1a68c8f040e71fb84
 //本题在牛课上AC
-public class 第十一题序列化二叉树牛客论坛做法 {
+public class 树_序列化二叉树牛客论坛做法 {
     static String Serialize(TreeNode root) {
         StringBuilder res = new StringBuilder();
         if (root == null)

@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Stack;
 
-public class 第三题从尾到头打印链表 {
+public class 链表_从尾到头打印链表 {
 //    非递归做法
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         Stack<Integer> tmp = new Stack<>();

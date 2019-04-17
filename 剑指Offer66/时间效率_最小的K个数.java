@@ -4,7 +4,7 @@
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.util.Comparator;
-public class 第九题最小的K个数 {
+public class 时间效率_最小的K个数 {
     public ArrayList<Integer> GetLeastNumbers_Solution(int[] input, int k) {
         ArrayList<Integer> result = new ArrayList<Integer>();
         int length = input.length;

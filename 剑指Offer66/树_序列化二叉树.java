@@ -1,6 +1,6 @@
 //BiliBili大雪菜做法
 //自测可以通过，牛客上不AC
-public class 第十一题序列化二叉树 {
+public class 树_序列化二叉树 {
     static String Serialize(TreeNode root) {
         StringBuilder res = new StringBuilder();
         dfs_s(root, res);

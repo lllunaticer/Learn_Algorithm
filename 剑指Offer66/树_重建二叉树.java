@@ -13,7 +13,7 @@ import java.util.Map;
  * 2. 在中序中得到左子树的长度为3，右子树长度为4， 所以在前序中可以得到左子树的前序是{2，4，7}， 右子树前序是{3，5，6，8}
  * 3. 有了左子树的前序和中序，可以重复上面的步骤1和步骤2的过程； 同理有了右子树的前序和中序，也可以递归上述过程；
  * */
-public class 第四题重建二叉树 {
+public class 树_重建二叉树 {
     Map<Integer, Integer> hash = new HashMap<>();
     int[] pre, in;
 

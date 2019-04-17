@@ -10,7 +10,7 @@ a d e e
 这样的3 X 4 矩阵中包含一条字符串"bcced"的路径，
 但是矩阵中不包含"abcb"路径，因为字符串的第一个字符b占据了矩阵中的第一行第二个格子之后，
 路径不能再次进入该格子。*/
-public class 第十六题矩阵中的路径 {
+public class 回溯法_矩阵中的路径 {
      static boolean hasPath(char[] matrix, int rows, int cols, char[] str) {
 //        特殊情况
         if (matrix.length == 1)
