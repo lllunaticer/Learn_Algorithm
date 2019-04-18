@@ -9,6 +9,11 @@ import java.util.LinkedList;
 够进入方格（35,37），因为3+5+3+7 = 18。但是，它不能进入方
 格（35,38），因为3+5+3+8 = 19。请问该机器人能够达到多少个格子？
 * */
+
+/*
+* 解题思路：
+* 宽搜
+* */
 public class 回溯法_机器人的运动范围 {
     public int movingCount(int threshold, int rows, int cols) {
         int res = 0;

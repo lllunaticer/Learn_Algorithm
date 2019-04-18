@@ -4,6 +4,10 @@ package 动态规划.背包问题;
  * 假设背包的最大承载重量是 9。有5个不同的物品，每个物品的重量分别是 2，2，4，6，3。
  * 问如何选择物品使得背包装下尽可能多的物品？
  * */
+
+/*
+ * 解题思路来自极客时间 https://time.geekbang.org/column/article/74788
+ * */
 public class _01背包问题求最大重量_背包重量_物品重量 {
 
     static int maxW = Integer.MIN_VALUE;//记录最大结果
@@ -58,17 +62,13 @@ public class _01背包问题求最大重量_背包重量_物品重量 {
         states[0][weight[0]] = true;
         for (int i = 1; i < n; ++i) {//动态规划状态转移
             for (int j = 0; j <= w; ++j) {
-                if (states[i - 1][j] == true) {//不把第i个物品放入背包
-                    states[i][j] = true;
-                    if(j<=w-weight[i]){//把第i个物品放入背包
-                        states[i][j+weight[i]]=true;
+                if (states[i - 1][j] == true) {//在states[i-1][j]状态是可达（状态有效的前提下，推导下一步的状态）
+                    states[i][j] = true;//不把第i个物品放入背包
+                    if (j <= w - weight[i]) {//把第i个物品放入背包
+                        states[i][j + weight[i]] = true;
                     }
                 }
             }
-//            for (int j = 0; j <= w - weight[i]; ++j) {
-//                if (states[i - 1][j] == true)
-//                    states[i][j + weight[i]] = true;
-//            }
         }
         for (int i = w; i >= 0; --i) {//输出结果
             if (states[n - 1][i] == true)
@@ -78,10 +78,26 @@ public class _01背包问题求最大重量_背包重量_物品重量 {
     }
 
     /*
-    * 用滚动数组实现的动归，节约额外空间
-    * */
+     * 优化:
+     * 用滚动数组实现的动归，节约额外空间
+     * */
+    public static int beibao_solution3() {
+        boolean[] states = new boolean[w + 1];
+        states[0] = true;//初始化
+        states[weight[0]] = true;
+        for (int i = 1; i < n; i++) {//动归
+            for (int j = w - weight[i]; j >= 0; j--) {//把第i个物品放入背包
+                if(states[j] == true)
+                    states[j+weight[i]] = true;
+            }
+        }
 
-
+        for(int i = w; i >= 0; i--){
+            if(states[i] == true)
+                return i;
+        }
+        return 0;
+    }
 
 
     public static void main(String[] args) {
@@ -91,6 +107,7 @@ public class _01背包问题求最大重量_背包重量_物品重量 {
         beibao_solution1(0, 0);
         System.out.println(maxW);
         System.out.println(beibao_solution2());
+        System.out.println(beibao_solution3());
     }
 
 }
