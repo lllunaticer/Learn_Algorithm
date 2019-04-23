@@ -8,18 +8,24 @@ public class 链表_删除链表中重复的结点 {
 //        设置一个虚拟节点,用来处理头节点有可能被删除的情况.
 //        这个节点的值随便,因为在后面的匹配中,我们并不涉及到这个头节点的值.返回的头节点时候记得返回的是虚拟节点的next
         ListNode dumy = new ListNode(-1);
-        ListNode q = dumy;
-        /*每次考察,将p指向q后面一个节点*/
-        while (q.next != null) {
-            ListNode p = q.next;
-//            如果p存在且q的下一个节点的值和p节点的值相当, 就将p往后移动一个节点考察下一个节点
-            while (p!=null && q.next.val == p.val) p = p.next;
-//            如果q的下下个节点是p,说明q从p的下个节点往后只移动了一次,变成了下下个节点,说明从q的下一个位置开始没有重复的元素, q往后移动移位考察下个位置
-            if (q.next.next == p)
-                q = q.next;
-//            只要p的位置不在q的下下个位置,说明p移动了超过了一次,说明遇到了相同的元素,将q移动到p的位置,跳过中间所有相同的元素.
+        dumy.next = pHead;
+
+        ListNode p = dumy;//p一开始室指向虚拟节点不是头节点！
+        /*每次考察,将q指向p后面一个节点*/
+        while (p.next != null) {
+            ListNode q = p.next;
+//            如果q存在且p的下一个节点的值和q节点的值相等，说明遇到了重复节点, 就将p往后移动一个节点考察下一个节点
+//            用图示模拟一下就懂了:
+//            V 1 2 2 3 3
+//            p q
+//            * p q
+            while (q!=null && p.next.val == q.val) q = q.next;
+//            如果p的下下个节点是q,说明q从p的下个节点往后只移动了一次,变成了下下个节点,说明从p的下一个位置开始没有重复的元素, p往后移动移位考察下个位置
+            if (p.next.next == q)
+                p = p.next;
+//            只要q的位置不在p的下下个位置,说明q移动了超过了一次,说明遇到了相同的元素,将p的next指针指向q,跳过中间所有相同的元素.
             else
-                q = p;
+                p.next = q;
         }
         return dumy.next;
     }

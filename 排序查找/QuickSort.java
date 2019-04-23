@@ -23,14 +23,16 @@ public class QuickSort {
         int less = L - 1;
         int more = R;
         int cur = L;
+        int base = arr[R];
 //        以arr[R]作为基准，有了随机快排，这里的arr[R]被重新洗牌
-//        这里一次性处理了大于基准等于基准和小于基准的三种情况，速度比传统快排要快
+//        这里一次性处理了大于基准等于基准和小于基准的三种情况，速度比传统快排要快--三路快排
         while (cur < more) {
-            if (arr[cur] < arr[R]) {
+            if (arr[cur] < base) {
                 // cur++,因为换到cur位置上的一定是比基准arr[R]小的数，直接将其扩到less范围去，且cur指向下一位置
                 swap(arr, ++less, cur++);
-            } else if (arr[cur] > arr[R]) {
+            } else if (arr[cur] > base) {
                 //交换到cur位置上的数大小位置，交换过去的数一定大于基准arr[R]， 故more--,将其扩到more区域， 但cur位置不变
+                //因为从--more交换过来的元素大小不确定，还需要判断
                 swap(arr, --more, cur);
             } else {
                 //当前位置和基准arr[R]相等，不扩到less区域和more区域，放在相等区域
