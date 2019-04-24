@@ -10,7 +10,7 @@
  * 题解:
  *
  * */
-public class 动态规划字符串_正则表达式匹配 {
+public class 未完成_动态规划字符串_正则表达式匹配 {
     int[][] f;
     int m;
     int n;
@@ -43,7 +43,7 @@ public class 动态规划字符串_正则表达式匹配 {
     }
 
     public static void main(String[] args) {
-        动态规划字符串_正则表达式匹配 a = new 动态规划字符串_正则表达式匹配();
+        未完成_动态规划字符串_正则表达式匹配 a = new 未完成_动态规划字符串_正则表达式匹配();
         a.match("a".toCharArray(),"ab*a".toCharArray());
     }
 }

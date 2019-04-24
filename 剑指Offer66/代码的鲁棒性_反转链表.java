@@ -11,27 +11,21 @@ public class 代码的鲁棒性_反转链表 {
         head.next = null;
         return h;
     }
+
 //    https://blog.csdn.net/geekmanong/article/details/51097196 经典单链表反转递归与非递归算法
 //    非递归方法
 //    利用两个结点指针和一个中间结点指针temp(用来记录当前结点的下一个节点的位置)，分别指向当前结点和前一个结点，
 //    每次循环让当前结点的指针域指向前一个结点即可，翻转结束后，记得将最后一个节点的链域置为空。
 
     public ListNode ReverseList2(ListNode head) {
-        if (head == null || head.next == null)
-            return head;
-        else {
-            ListNode prev = head;
-            ListNode cur = head.next;
-            ListNode temp;
-
-            while (cur != null) {
-                temp = cur.next;
-                cur.next = prev;
-                prev = cur;
-                cur = temp;
-            }
-            head.next = null;
-            return prev;
+        ListNode pre = null;
+        ListNode cur = head;
+        while(cur!=null){
+            ListNode next = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = next;
         }
+        return pre;
     }
 }
