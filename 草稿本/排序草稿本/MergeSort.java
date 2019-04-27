@@ -2,12 +2,18 @@ package 排序草稿本;
 
 public class MergeSort {
     static void mergeSort(int[] arr) {
-
+        if(arr == null || arr.length<2)
+            return;
+        sortProcess(arr,0, arr.length-1);
     }
 
     static void sortProcess(int[] arr, int L, int R) {
-
-
+        if(L>=R)
+            return;
+        int mid = L + ((R-L)>>2);
+        sortProcess(arr,L,mid);
+        sortProcess(arr,mid+1,R);
+        merge(arr,L,mid, R);
     }
 
     static void merge(int[] arr, int L, int mid, int R) {

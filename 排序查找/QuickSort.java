@@ -9,9 +9,10 @@ import java.util.Arrays;
 //库函数都是高度优化过的
 public class QuickSort {
 
+
     static void quickSort(int[] arr, int L, int R) {
         if (L < R) {
-//            随机快排， 每次将中间随机一个数和数列最后一个元素交换位置，放置逆序数列产生差的结果
+//            随机快排， 每次将中间随机一个数和数列最后一个元素交换位置，防止逆序数列产生差的结果
             swap(arr, L + (int) (Math.random() * (R - L + 1)), R);
             int[] p = partition(arr, L, R);
             quickSort(arr, L, p[0] - 1);

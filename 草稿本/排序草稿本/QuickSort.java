@@ -2,12 +2,30 @@ package 排序草稿本;
 
 public class QuickSort {
     static void quickSort(int[] arr, int L, int R) {
-
+        if(L<R){
+            int[] p = partition(arr, L, R);
+            quickSort(arr,L,p[0]-1);
+            quickSort(arr,p[1]+1,R);
+        }
     }
 
     static int[] partition(int[] arr, int L, int R) {
 //
-        return null;
+        int less = L-1;
+        int more = R;
+        int cur = L;
+        int base = arr[R];
+        while(cur<more){
+            if(arr[cur]<base){
+                swap(arr, ++less,cur++);
+            }else if(arr[cur]>base){
+                swap(arr,--more,cur);
+            }else{
+                cur++;
+            }
+        }
+        swap(arr,R,more);
+        return new int[]{less+1,more};
     }
 
     static void swap(int[] arr, int m, int n){

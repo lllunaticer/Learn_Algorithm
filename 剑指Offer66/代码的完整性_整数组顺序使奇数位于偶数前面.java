@@ -5,7 +5,6 @@
 后半部分，并保证奇数和奇数，偶数和偶数之间的相对位置不变。
 * */
 
-import java.util.ArrayList;
 
 /*
 *
