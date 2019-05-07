@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="单词接龙">
+    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表_题目描述.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcodepractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcodepractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcodepractice/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcodepractice/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,96 +19,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode_pratice$_.ic" NAME="循环和递归_变态跳台阶 Coverage Results" MODIFIED="1556113137131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基本排序查找算法/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="818">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基本排序查找算法/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="51" selection-start-line="51" selection-end-line="55" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基本排序查找算法/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基本排序查找算法/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-118">
-              <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/基本排序查找算法/SelectionSort.java">
+        <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-338">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="182">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#1349#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表_题目描述.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -120,6 +63,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -130,39 +74,70 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/outField/NQueens.java" />
-        <option value="$PROJECT_DIR$/src/backTracking/NQueens.java" />
-        <option value="$PROJECT_DIR$/src/backTracking/totalQueens.java" />
-        <option value="$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java" />
-        <option value="$PROJECT_DIR$/src/NearestPalindromic.java" />
-        <option value="$PROJECT_DIR$/src/a.java" />
-        <option value="$PROJECT_DIR$/src/DynamicProgramming/Triangle.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/tools/QuickSort_oldVersion.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/InsertSort.java" />
-        <option value="$PROJECT_DIR$/牛客网算法进阶班/test.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/Solution1.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/草稿本/Swap.java" />
-        <option value="$PROJECT_DIR$/草稿本/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/MergeSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/QuickSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" />
-        <option value="$PROJECT_DIR$/基本排序查找算法/HeapSort.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/shorter/ShorterString.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/shorter/ShorterWithPassword.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/shorter/ShorterWithPeriod.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/shorter/ShorterWithPeriodAndTimes.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/shorter/ShorterWithTimes.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/StringGeneratorRandom.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/UrlShorterGeneratorLimitPeriod.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/UrlShorterGeneratorLimitPeriodAndTimes.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/UrlShorterGeneratorLimitTimes.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/UrlShorterGeneratorSimple.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/generator/UrlShorterGeneratorWithPassword.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/test/test.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/test/java/org/tinygroup/shorter/RandomStringGeneratorTest.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/test/java/org/tinygroup/shorter/UrlShorterGeneratorSimpleTest.java" />
+        <option value="$PROJECT_DIR$/outField/短网址服务/src/main/java/org/tinygroup/shorter/storage/ShorterStorageMemory.java" />
+        <option value="$PROJECT_DIR$/排序查找/HeapSort.java" />
         <option value="$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/动态规划字符串_正则表达式匹配.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/字符串_表示数值的字符串.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9c71b38b-2300-414a-9fe9-d407e866e5b6/console.sql" />
+        <option value="$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_链表中倒数第k个结点.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/链表_链表中环的入口结点.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_反转链表.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/链表_合并两个有序链表.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_合并两个排序的链表.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_树的子结构.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_树的子结构.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_二叉树的镜像.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/树_对称的二叉树.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/数组_顺时针打印矩阵.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/举例让抽象具体化_包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/栈_包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/栈和队列_包含min函数的栈.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/举例让抽象具体化_栈的压入弹出序列.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/模拟_栈的压入弹出序列.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/模拟_上往下打印二叉树.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/树_把二叉树打印成多行.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/树_按之字形顺序打印二叉树.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_二叉搜索树的后序遍历序列.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/举例让抽象具体化_二叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_二叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/排序查找/QuickSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/代码的完整性_整数组顺序使奇数位于偶数前面.java" />
+        <option value="$PROJECT_DIR$/面试算法题/duilie.java" />
+        <option value="$PROJECT_DIR$/面试算法题/Main.java" />
+        <option value="$PROJECT_DIR$/草稿本/排序草稿本/Main.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_叉树中和为某一值的路径.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.java" />
+        <option value="$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="47" />
-    <option name="y" value="-25" />
-    <option name="width" value="1335" />
-    <option name="height" value="1045" />
+    <option name="x" value="462" />
+    <option name="width" value="1300" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,8 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,38 +157,46 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="基本排序查找算法" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer66" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="草稿本" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="草稿本" type="462c0819:PsiDirectoryNode" />
-              <item name="排序草稿本" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指Offer66" type="462c0819:PsiDirectoryNode" />
+              <item name="链表_复杂链表的复制.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552985727064" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557220373253" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\githubproject\leetcode_practice\剑指Offer66" />
+      <recent name="E:\githubproject\leetcode_practice\outField\短网址服务" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\githubproject\leetcode_practice\剑指Offer66" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,10 +210,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HeapSort (1)">
-    <configuration name="HeapSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序草稿本.HeapSort" />
-      <module name="leetcodepractice" />
+  <component name="RunManager" selected="Application.循环和递归_叉树中和为某一值的路径">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.Main" />
+      <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="排序草稿本.*" />
@@ -243,29 +224,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeapSort" />
-      <module name="leetcodepractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序草稿本.MergeSort" />
-      <module name="leetcodepractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序草稿本.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="算法学习之路任重而道远" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="排序草稿本.QuickSort" />
-      <module name="leetcodepractice" />
+      <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="排序草稿本.*" />
@@ -276,26 +244,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序草稿本.SelectionSort" />
+    <configuration name="腾讯提前批笔试第四题打气球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="腾讯提前批笔试第四题打气球" />
+      <module name="算法学习之路任重而道远" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第十六题矩阵中的路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第十六题矩阵中的路径" />
+      <module name="算法学习之路任重而道远" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="第十二题滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第十二题滑动窗口的最大值" />
       <module name="leetcodepractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="排序草稿本.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="循环和递归_叉树中和为某一值的路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="循环和递归_叉树中和为某一值的路径" />
+      <module name="算法学习之路任重而道远" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="duilie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="duilie" />
+      <module name="算法学习之路任重而道远" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeapSort (1)" />
-        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.循环和递归_叉树中和为某一值的路径" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.duilie" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +328,41 @@
       <workItem from="1552788496877" duration="886000" />
       <workItem from="1552836438669" duration="4264000" />
       <workItem from="1552919101224" duration="1784000" />
-      <workItem from="1552960198903" duration="9081000" />
+      <workItem from="1552960198903" duration="9324000" />
+      <workItem from="1552988966727" duration="2252000" />
+      <workItem from="1553064656371" duration="27555000" />
+      <workItem from="1553165702200" duration="13855000" />
+      <workItem from="1553267459822" duration="6588000" />
+      <workItem from="1553308154150" duration="12805000" />
+      <workItem from="1553408724031" duration="24000" />
+      <workItem from="1553506595425" duration="5806000" />
+      <workItem from="1553591404926" duration="11529000" />
+      <workItem from="1553683387057" duration="611000" />
+      <workItem from="1553771490287" duration="2826000" />
+      <workItem from="1553943079055" duration="604000" />
+      <workItem from="1553947820043" duration="65000" />
+      <workItem from="1553949131646" duration="609000" />
+      <workItem from="1554378511699" duration="2058000" />
+      <workItem from="1554381597626" duration="6000" />
+      <workItem from="1554381633162" duration="4530000" />
+      <workItem from="1554395091514" duration="10000" />
+      <workItem from="1554446566160" duration="977000" />
+      <workItem from="1554447689084" duration="46000" />
+      <workItem from="1554447760473" duration="3005000" />
+      <workItem from="1554451772782" duration="65000" />
+      <workItem from="1554451849944" duration="825000" />
+      <workItem from="1554562260804" duration="3306000" />
+      <workItem from="1554641751292" duration="20000" />
+      <workItem from="1555382953234" duration="23464000" />
+      <workItem from="1555503515121" duration="22439000" />
+      <workItem from="1555639959894" duration="3350000" />
+      <workItem from="1555682123051" duration="2192000" />
+      <workItem from="1555768727674" duration="9631000" />
+      <workItem from="1555986579059" duration="12411000" />
+      <workItem from="1556087964513" duration="30738000" />
+      <workItem from="1556267250733" duration="2899000" />
+      <workItem from="1556415283432" duration="649000" />
+      <workItem from="1557190469426" duration="13277000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -375,17 +399,187 @@
       <option name="project" value="LOCAL" />
       <updated>1552960607365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加入草稿本，用来自我演练代码">
+      <created>1552985943223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552985943223</updated>
+    </task>
+    <task id="LOCAL-00007" summary="牛客网剑指Offer66题">
+      <created>1553073713470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553073713470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="加入草稿本，用来自我演练代码">
+      <created>1553086337884</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553086337884</updated>
+    </task>
+    <task id="LOCAL-00009" summary="剑指offer第六题">
+      <created>1553089705929</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1553089705929</updated>
+    </task>
+    <task id="LOCAL-00010" summary="剑指OFFER第二天">
+      <created>1553258894513</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1553258894513</updated>
+    </task>
+    <task id="LOCAL-00011" summary="剑指OFFER继续">
+      <created>1553273813520</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1553273813520</updated>
+    </task>
+    <task id="LOCAL-00012" summary="剑指OFFER继续">
+      <created>1553319140968</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553319140968</updated>
+    </task>
+    <task id="LOCAL-00013" summary="加入了面试中常考的算法题目录">
+      <created>1553516901800</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553516901800</updated>
+    </task>
+    <task id="LOCAL-00014" summary="加入草稿本，用来自我演练代码">
+      <created>1553516985472</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553516985472</updated>
+    </task>
+    <task id="LOCAL-00015" summary="加入草稿本，用来自我演练代码">
+      <created>1553593035444</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553593035444</updated>
+    </task>
+    <task id="LOCAL-00016" summary="剑指OFFER继续">
+      <created>1553605760454</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553605760454</updated>
+    </task>
+    <task id="LOCAL-00017" summary="剑指OFFER">
+      <created>1553775460780</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1553775460780</updated>
+    </task>
+    <task id="LOCAL-00018" summary="加入草稿本，用来自我演练代码">
+      <created>1555397699674</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1555397699674</updated>
+    </task>
+    <task id="LOCAL-00019" summary="加入草稿本，用来自我演练代码">
+      <created>1555482404046</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1555482404047</updated>
+    </task>
+    <task id="LOCAL-00020" summary="全面修改剑指OFFER相关类名，加入分类作为主键索引">
+      <created>1555510167286</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1555510167286</updated>
+    </task>
+    <task id="LOCAL-00021" summary="加入草稿本，用来自我演练代码">
+      <created>1555513281172</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1555513281172</updated>
+    </task>
+    <task id="LOCAL-00022" summary="加入草稿本，用来自我演练代码">
+      <created>1555595287444</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1555595287444</updated>
+    </task>
+    <task id="LOCAL-00023" summary="加入草稿本，用来自我演练代码">
+      <created>1555596732538</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1555596732539</updated>
+    </task>
+    <task id="LOCAL-00024" summary="加入草稿本，用来自我演练代码">
+      <created>1556015920902</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556015920902</updated>
+    </task>
+    <task id="LOCAL-00025" summary="加入草稿本，用来自我演练代码">
+      <created>1556092259355</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1556092259355</updated>
+    </task>
+    <task id="LOCAL-00026" summary="加入草稿本，用来自我演练代码">
+      <created>1556113944744</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1556113944744</updated>
+    </task>
+    <task id="LOCAL-00027" summary="little modification">
+      <created>1556370208347</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1556370208347</updated>
+    </task>
+    <task id="LOCAL-00028" summary="剑指OFFER+2">
+      <created>1557214948076</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557214948076</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103218000" />
+    <option name="totallyTimeSpent" value="324488000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1476" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20733428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23782639" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,27 +587,30 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49858958" visible="true" weight="0.3941019" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992948" weight="0.43699732" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964739" visible="true" weight="0.123324394" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.33378017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50070524" side_tool="true" weight="0.461126" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.21715818" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035261" side_tool="true" weight="0.087131366" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49964714" weight="0.424933" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.45978552" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24982357" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.49865952" visible="true" weight="0.02117149" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32956952" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="TCPMON" order="9" weight="0.32956952" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.021156559" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,220 +622,420 @@
     <MESSAGE value="基本排序算法" />
     <MESSAGE value="加入堆排序，完成快排" />
     <MESSAGE value="添加二分查找；" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加二分查找；" />
+    <MESSAGE value="牛客网剑指Offer66题" />
+    <MESSAGE value="剑指offer第六题" />
+    <MESSAGE value="剑指OFFER第二天" />
+    <MESSAGE value="加入了面试中常考的算法题目录" />
+    <MESSAGE value="剑指OFFER继续" />
+    <MESSAGE value="剑指OFFER" />
+    <MESSAGE value="全面修改剑指OFFER相关类名，加入分类作为主键索引" />
+    <MESSAGE value="加入草稿本，用来自我演练代码" />
+    <MESSAGE value="little modification" />
+    <MESSAGE value="剑指OFFER+2" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指OFFER+2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java</url>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ThreeSum.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_对称的二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="12" />
+        <state relative-caret-position="202">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backTracking/NQueens.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/数组_顺时针打印矩阵.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="94" selection-start-line="94" selection-end-line="98" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/outField/NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="32" selection-start-line="32" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backTracking/totalQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="457" selection-start-line="457" selection-end-line="457" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="147" selection-start-line="147" selection-end-line="147" />
-          <folding>
-            <element signature="e#5047#5048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/NearestPalindromic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/wordsLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/堆排序.java" />
-    <entry file="file://$PROJECT_DIR$/tools/QuickSort_oldVersion.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/模拟_栈的压入弹出序列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
-          <caret line="25" selection-start-line="25" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/牛客网算法进阶班/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="41" selection-end-line="5" />
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
           <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#0#208#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/Solution1.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/模拟_上往下打印二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_把二叉树打印成多行.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="303">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/ShellSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_按之字形顺序打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/二分查找_判断有无给定元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题/合并K个有序数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的完整性_数值的整数次方.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的完整性_整数组顺序使奇数位于偶数前面.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1846#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_反转链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="26" selection-start-line="26" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="416">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/Swap.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_链表中倒数第k个结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/位运算_二进制中1的个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/发散思维能力_不用加减乘除做加法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_合并两个排序的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/发散思维能力_剪绳子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/回溯法_机器人的运动范围.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/字符串_替换空格.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/字符串_表示数值的字符串.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_二叉搜索树的后序遍历序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="383">
+          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_变态跳台阶.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="-487">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_树的子结构.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="51" selection-start-line="51" selection-end-line="55" selection-end-column="5" />
+        <state relative-caret-position="442">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_矩形覆盖.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="36" />
+        <state relative-caret-position="468">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/数组_二维数组中的查找.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
-          <caret line="53" selection-start-line="53" selection-end-line="57" selection-end-column="5" />
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/时间效率_最小的K个数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+        <state relative-caret-position="371">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1111#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/InsertSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/查找和排序_旋转数组的最小数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118">
-          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        <state relative-caret-position="-761">
+          <caret line="16" column="58" lean-forward="true" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/栈和队列_两个栈实现队列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        <state relative-caret-position="52">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基本排序查找算法/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/排序查找/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-338">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="494">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_跳台阶.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/回溯法_矩阵中的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_二叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面试算法题/duilie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="31" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/栈和队列_包含min函数的栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/栈和队列_滑动窗口的最大值.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_反转链表详细解释.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_叉树中和为某一值的路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本/排序草稿本/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_链表中环的入口结点.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表_题目描述.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#1349#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,7 +1091,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>leetcodepractice</last-edited>
+          <last-edited>算法学习之路任重而道远</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
