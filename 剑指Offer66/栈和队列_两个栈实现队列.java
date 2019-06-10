@@ -4,8 +4,8 @@
 * */
 import java.util.Stack;
 public class 栈和队列_两个栈实现队列 {
-    Stack<Integer> stackIn = new Stack<Integer>();
-    Stack<Integer> stackOut = new Stack<Integer>();
+    Stack<Integer> stackIn = new Stack<>();
+    Stack<Integer> stackOut = new Stack<>();
 
     public void push(int node) {
         stackIn.push(node);
