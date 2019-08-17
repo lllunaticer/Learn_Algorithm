@@ -1,6 +1,6 @@
 package 刷题;
 
-class Solution {
+class Solution29 {
     public static int divide(int dividend, int divisor) {
         if(dividend == -2147483648){
             if(divisor == 1)
