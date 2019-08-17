@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/领扣/刷题/Solution29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,17 +32,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/领扣/刷题/Solution29.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="910">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer66/动态规划字符串_正则表达式匹配.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/字符串_表示数值的字符串.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9c71b38b-2300-414a-9fe9-d407e866e5b6/console.sql" />
         <option value="$PROJECT_DIR$/剑指Offer66/代码的鲁棒性_链表中倒数第k个结点.java" />
@@ -110,6 +98,7 @@
         <option value="$PROJECT_DIR$/领扣/ACwing打卡/ListNode.java" />
         <option value="$PROJECT_DIR$/领扣/ACwing打卡/Solution24.java" />
         <option value="$PROJECT_DIR$/领扣/刷题/Solution29.java" />
+        <option value="$PROJECT_DIR$/领扣/刷题/Solution32.java" />
       </list>
     </option>
   </component>
@@ -119,9 +108,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="448" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="221" />
+    <option name="y" value="-10" />
     <option name="width" value="1200" />
     <option name="height" value="1045" />
   </component>
@@ -145,6 +134,12 @@
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
               <item name="领扣" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="领扣" type="462c0819:PsiDirectoryNode" />
+              <item name="刷题" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +156,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566060894728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566116140310" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -190,9 +185,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="把数字翻译成字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="把数字翻译成字符串" />
+  <component name="RunManager" selected="Application.Solution32">
+    <configuration name="把数组排成最小的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="把数组排成最小的数" />
       <module name="算法学习之路任重而道远" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -217,6 +212,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ACwing打卡.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.Solution32" />
+      <module name="算法学习之路任重而道远" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,13 +258,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="把数组排成最小的数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="把数组排成最小的数" />
-      <module name="算法学习之路任重而道远" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="第十二题滑动窗口的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第十二题滑动窗口的最大值" />
       <module name="leetcodepractice" />
@@ -266,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution32" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution24" />
         <item itemvalue="Application.Solution33" />
         <item itemvalue="Application.Solution74" />
-        <item itemvalue="Application.把数字翻译成字符串" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +371,9 @@
       <workItem from="1564802636427" duration="1242000" />
       <workItem from="1564828810663" duration="19000" />
       <workItem from="1566052128046" duration="3675000" />
-      <workItem from="1566058764098" duration="2119000" />
+      <workItem from="1566058764098" duration="2430000" />
+      <workItem from="1566103349290" duration="4612000" />
+      <workItem from="1566118759964" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -635,7 +638,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="388701000" />
+    <option name="totallyTimeSpent" value="393653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -648,9 +651,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17219478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21947777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -659,8 +661,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4964739" visible="true" weight="0.29088473" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.347185" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964739" weight="0.29088473" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.21045576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
@@ -675,7 +677,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24982357" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" sideWeight="0.49865952" visible="true" weight="0.02117149" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.49865952" visible="true" weight="0.10021172" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32956952" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -727,13 +729,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/字符串_表示数值的字符串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_二叉搜索树的后序遍历序列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1075,10 +1070,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/领扣/刷题/Solution32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/领扣/刷题/Solution29.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="910">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="130">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
