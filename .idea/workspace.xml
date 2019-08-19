@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -109,7 +110,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="221" />
+    <option name="x" value="220" />
     <option name="y" value="-10" />
     <option name="width" value="1200" />
     <option name="height" value="1045" />
@@ -122,6 +123,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,8 +147,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -374,6 +375,7 @@
       <workItem from="1566058764098" duration="2430000" />
       <workItem from="1566103349290" duration="4612000" />
       <workItem from="1566118759964" duration="29000" />
+      <workItem from="1566182158617" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -638,7 +640,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393653000" />
+    <option name="totallyTimeSpent" value="393731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -677,7 +679,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24982357" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" sideWeight="0.49865952" visible="true" weight="0.10021172" />
+      <window_info active="true" anchor="right" id="Database" order="4" sideWeight="0.49865952" visible="true" weight="0.10021172" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" weight="0.32956952" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
