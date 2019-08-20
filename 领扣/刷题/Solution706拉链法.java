@@ -1,5 +1,5 @@
 package 刷题;
-
+//拉链法
 class MyHashMap {
     Entry[] keys;
 
@@ -124,3 +124,5 @@ class Entry {
  * int param_2 = obj.get(key);
  * obj.remove(key);
  */
+
+//开放定址法
