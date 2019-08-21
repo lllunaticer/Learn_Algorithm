@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/领扣/刷题/Solution200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/领扣/刷题/Solution560.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/领扣/刷题/Solution652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/领扣/刷题/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/草稿本/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/草稿本/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +125,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="682" />
     <option name="y" value="401" />
     <option name="width" value="1200" />
@@ -180,7 +173,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566375223966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566375224414" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning_Record" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -383,7 +376,7 @@
       <workItem from="1566182258469" duration="388000" />
       <workItem from="1566182680889" duration="14000" />
       <workItem from="1566268878839" duration="15168000" />
-      <workItem from="1566352913169" duration="3629000" />
+      <workItem from="1566352913169" duration="4231000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -648,7 +641,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="412930000" />
+    <option name="totallyTimeSpent" value="413532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -673,7 +666,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964739" weight="0.28551137" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" visible="true" weight="0.48123324" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.48123324" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
