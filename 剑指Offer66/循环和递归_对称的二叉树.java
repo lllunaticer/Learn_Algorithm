@@ -18,7 +18,7 @@
 从上到下每个节点仅被遍历一遍，所以时间复杂度是 O(n)O(n)。
 
 * */
-public class 树_对称的二叉树 {
+public class 循环和递归_对称的二叉树 {
     boolean isSymmetrical(TreeNode pRoot)
     {
         if(pRoot == null)
