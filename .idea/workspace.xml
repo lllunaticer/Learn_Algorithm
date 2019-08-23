@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/字符流中第一个不重复的数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/循环与递归_二叉搜索树的第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/把字符串转化为整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/数组中的重复数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/构建乘积数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指Offer66/表示数值的字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/次常见算法/FIFO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/次常见算法/LRU算法/LRU1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/次常见算法/LRU算法/LRU2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/次常见算法/LRU算法/说明.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/剑指Offer66/未完成_动态规划字符串_正则表达式匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/剑指Offer66/未完成_动态规划字符串_正则表达式匹配.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法学习之路任重而道远.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法学习之路任重而道远.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,48 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer66/扑克牌中的顺子.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="23" column="55" lean-forward="true" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer66/翻转单词序列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="22" column="23" lean-forward="true" selection-end-line="49" />
-              <folding>
-                <element signature="e#0#1484#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer66/圆圈中最后剩下的数字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="20" column="7" lean-forward="true" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer66/把字符串转化为整数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1508">
-              <caret line="58" lean-forward="true" selection-end-line="71" />
-              <folding>
-                <element signature="e#0#1674#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer66/数组中的重复数字.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/剑指Offer66/未完成_动态规划字符串_正则表达式匹配.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="677">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
             </state>
           </provider>
         </entry>
@@ -128,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/剑指Offer66/循环与递归_二叉搜索树的第k个节点.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding>
                 <element signature="e#0#1178#0" expanded="true" />
                 <element signature="e#804#814#0" expanded="true" />
@@ -137,13 +93,69 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指Offer66/字符流中第一个不重复的数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="4" lean-forward="true" selection-end-line="40" />
+            <state relative-caret-position="208">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding>
                 <element signature="e#0#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/排序查找/二分查找模板_返回最接近目标值下标.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/次常见算法/LRU算法/LRU1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1045#1046#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/次常见算法/LRU算法/LRU2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+              <folding>
+                <element signature="e#2774#2775#0" expanded="true" />
+                <element signature="e#2811#2812#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/次常见算法/FIFO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#825#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,11 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer66/发散思维能力_数组中出现次数超过一半的数字.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/时间效率_最小的K个数.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/堆_数据流的中位数.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/前缀和_连续子数组的最大和.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/整数中1出现的个数.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/数字序列中某一位的数字.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/栈和队列_两个栈实现队列.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/数字题_数字序列中某一位的数字.java" />
@@ -216,6 +223,11 @@
         <option value="$PROJECT_DIR$/剑指Offer66/二叉搜索树的第k个节点.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/字符流中第一个不重复的数.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/循环与递归_二叉搜索树的第k个节点.java" />
+        <option value="$PROJECT_DIR$/次常见算法/LRU1.java" />
+        <option value="$PROJECT_DIR$/次常见算法/LRU算法/说明.md" />
+        <option value="$PROJECT_DIR$/次常见算法/LRU算法/LRU1.java" />
+        <option value="$PROJECT_DIR$/次常见算法/LRU算法/LRU2.java" />
+        <option value="$PROJECT_DIR$/次常见算法/FIFO.java" />
       </list>
     </option>
   </component>
@@ -249,7 +261,7 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指Offer66" type="462c0819:PsiDirectoryNode" />
+              <item name="次常见算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
@@ -271,7 +283,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566549165681" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566572167225" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning_Record" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -301,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.表示数值的字符串">
+  <component name="RunManager" selected="Application.FIFO">
     <configuration name="扑克牌中的顺子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="扑克牌中的顺子" />
       <module name="算法学习之路任重而道远" />
@@ -316,12 +328,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="刷题.Solution200" />
+    <configuration name="FIFO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FIFO" />
+      <module name="算法学习之路任重而道远" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LRU1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRU算法.LRU1" />
       <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="刷题.*" />
+          <option name="PATTERN" value="LRU算法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,9 +348,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="搜索_丑数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="搜索_丑数" />
+    <configuration name="LRU2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LRU算法.LRU2" />
       <module name="算法学习之路任重而道远" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LRU算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -352,10 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FIFO" />
+        <item itemvalue="Application.LRU2" />
+        <item itemvalue="Application.LRU1" />
         <item itemvalue="Application.表示数值的字符串" />
         <item itemvalue="Application.扑克牌中的顺子" />
-        <item itemvalue="Application.搜索_丑数" />
-        <item itemvalue="Application.Solution200" />
       </list>
     </recent_temporary>
   </component>
@@ -728,7 +754,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446327000" />
+    <option name="totallyTimeSpent" value="450039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -743,7 +769,7 @@
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24488355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18348624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -752,7 +778,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4964739" visible="true" weight="0.07908847" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90755117" visible="true" weight="0.23592493" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.31769437" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -761,7 +787,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5035261" side_tool="true" weight="0.087131366" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.09244884" side_tool="true" visible="true" weight="0.23592493" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49964714" weight="0.424933" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.45978552" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -820,37 +846,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/领扣/ACwing打卡/Solution24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" selection-start-line="3" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/领扣/ACwing打卡/Solution33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/领扣/ACwing打卡/Solution74.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_链表中环的入口结点.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_链表中环的入口结点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="21" column="16" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/领扣/刷题/Solution32.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -1137,21 +1132,21 @@
     <entry file="file://$PROJECT_DIR$/剑指Offer66/扑克牌中的顺子.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="23" column="55" lean-forward="true" selection-end-line="57" />
+          <caret line="23" column="55" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/圆圈中最后剩下的数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="20" column="7" lean-forward="true" selection-end-line="41" />
+          <caret line="20" column="7" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/把字符串转化为整数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1508">
-          <caret line="58" lean-forward="true" selection-end-line="71" />
+          <caret line="58" selection-end-line="71" />
           <folding>
             <element signature="e#0#1674#0" expanded="true" />
           </folding>
@@ -1188,14 +1183,14 @@
     <entry file="file://$PROJECT_DIR$/剑指Offer66/未完成_动态规划字符串_正则表达式匹配.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/循环与递归_二叉搜索树的第k个节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding>
             <element signature="e#0#1178#0" expanded="true" />
             <element signature="e#804#814#0" expanded="true" />
@@ -1205,10 +1200,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/字符流中第一个不重复的数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="4" lean-forward="true" selection-end-line="40" />
+        <state relative-caret-position="208">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
             <element signature="e#0#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/排序查找/二分查找模板_返回最接近目标值下标.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/次常见算法/LRU算法/说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/次常见算法/LRU算法/LRU1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/次常见算法/LRU算法/LRU2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="46" column="31" lean-forward="true" selection-start-line="46" selection-start-column="31" selection-end-line="46" selection-end-column="31" />
+          <folding>
+            <element signature="e#2774#2775#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/次常见算法/FIFO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#825#0" expanded="true" />
           </folding>
         </state>
       </provider>

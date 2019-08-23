@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/笔试题" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Acwing上的算法竞赛进阶指南题" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/领扣" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/次常见算法" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/outField/短网址服务" />
     </content>
     <orderEntry type="inheritedJdk" />
