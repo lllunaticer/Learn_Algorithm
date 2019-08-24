@@ -2,12 +2,12 @@ package 排序草稿本;
 
 public class InsertSort {
     static void insertSort(int[] arr){
-        if(arr==null||arr.length<2)
+        if(arr == null || arr.length == 0)
             return;
         else{
-            for(int i = 1; i<=arr.length-1; i++){
-                for(int j = i-1; j>=0&&arr[j+1]<arr[j];j--){
-                    Swap.swap(arr, j, j+1);
+            for(int i = 1; i<arr.length;i++){
+                for(int j = i -1; j>=0 && arr[j+1]<arr[j]; j--){
+                    Swap.swap(arr,j,j+1);
                 }
             }
         }

@@ -2,13 +2,13 @@ package 排序草稿本;
 
 public class BubbleSort {
     public static void bubleSort(int[] arr) {
-        if (arr == null || arr.length < 2)
+        if(arr == null || arr.length == 0)
             return;
-        else {
-            for (int end = arr.length - 1; end > 0; end--) {
-                for (int i = 0; i < end; i++) {
-                    if (arr[i] > arr[i + 1])
-                        Swap.swap(arr, i, i + 1);
+        else{
+            for(int end = arr.length-1; end>0;end--){
+                for(int i = 0; i < end; i++){
+                    if(arr[i]>arr[i+1])
+                        Swap.swap(arr, i, i+1);
                 }
             }
         }
