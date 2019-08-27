@@ -33,7 +33,7 @@ public class 二分查找_数字在排序数组中出现的次数 {
         while(l<r){
             int mid = l + ((r-l)>>1)+1;
             if(array[mid] <= k)
-                l = mid;
+                l = mid;//此处不能更新成l = mid-1, 这样可能会丢失array[mid] == k的部分。故只能用[l,mid-1]和[mid,r]模板
             else
                 r = mid-1;
         }

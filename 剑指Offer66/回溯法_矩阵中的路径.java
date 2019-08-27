@@ -15,13 +15,6 @@ public class 回溯法_矩阵中的路径 {
 //        特殊情况
         if (matrix.length == 1)
             return matrix[0] == str[0];
-//        暴力枚举
-//        char[][] matrix_ = new char[rows][cols];
-//        int k = 0;
-//       将一维转为二维
-//        for (int i = 0; i < rows; i++)
-//            for (int j = 0; j < cols; j++)
-//                matrix_[i][j] = matrix[k++];
 
 //      枚举所有起点
         for (int i = 0; i < rows; i++)

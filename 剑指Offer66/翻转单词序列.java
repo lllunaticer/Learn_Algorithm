@@ -30,7 +30,7 @@ public class 翻转单词序列 {
         return sb.toString();
     }
 
-//    更简单的方法，读成字符串数组让后逆序保存
+//    更简单的方法，读成字符串数组然后逆序保存
     public String ReverseSentence2(String str) {
         if(str.trim().equals("")){
             return str;

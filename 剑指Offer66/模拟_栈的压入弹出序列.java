@@ -11,7 +11,7 @@ import java.util.Stack;
 
 /*
 *题解:
-* (栈) O(n)O(n)
+* (栈) O(n)
 用一个新栈s来模拟实时进出栈操作：
 
 在for loop里依次喂数，每push一个数字就检查有没有能pop出来的。

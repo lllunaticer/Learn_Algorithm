@@ -5,7 +5,7 @@
 * */
 
 import java.util.Arrays;
-//import java.util.Comparator;
+
 
 /*
  *我们想，如果比较大小的时候，可以按照拼接结果的大小来对数组进行排序，则排序结果天然就能满足要求
