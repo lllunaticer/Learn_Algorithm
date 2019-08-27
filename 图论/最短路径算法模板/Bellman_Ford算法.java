@@ -1,4 +1,4 @@
-/*
+package 最短路径算法模板;/*
 题目及评测连接:https://www.acwing.com/problem/content/855/
 给定一个n个点m条边的有向图，图中可能存在重边和自环， 边权可能为负数。
 请你求出从1号点到n号点的最多经过k条边的最短距离，如果无法从1号点走到n号点，输出impossible。
@@ -56,6 +56,7 @@ public class Bellman_Ford算法 {
     int[] dist = new int[N];
     int[] backup = new int[N];
 
+    //保存边的类，因为Bellman-Ford算法在遍历边的时候不需要
     class Edge {
         int a, b, w;
 
@@ -85,13 +86,19 @@ public class Bellman_Ford算法 {
     int bellman_ford() {
         Arrays.fill(dist, INF);
         dist[1] = 0;
+        //遍历k次，意味着求最短路的时候最多经过k条边
         for (int i = 0; i < k; i++) {
             backup = dist.clone();//备份dist数组
             for (int j = 0; j < m; j++) {
                 int a = edges[j].a, b = edges[j].b, w = edges[j].w;
+                //本层所有点的最短路径的时候，不能使用本层计算的结果，要用上一层计算的结果。
                 dist[b] = Math.min(dist[b], backup[a] + w);
             }
         }
+        //注意这里判断是否是无穷的时候我们使用了(INF>>1)而不是直接使用INF
+        //原因在于图中有负权边，我们想要的效果是 无穷 + i(有限小的数) = 无穷， 当我们用一个极大的数来代替无穷的时候，
+        //当上面式子中的i<0的时候，右边的无穷实际上比左边无穷要小一点，这个时候INF + i < INF, 用跟INF比大小去判断INF+i
+        //实际上判断出来的结果是INF + i不是无穷，这不是我们想要的结果。故用一个较大的数字来做比较。
         if (dist[n] > (INF >> 1))
             return -1;
         return dist[n];
