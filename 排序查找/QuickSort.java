@@ -9,7 +9,8 @@ import java.util.Arrays;
 //库函数都是高度优化过的
 public class QuickSort {
 
-
+//先把L~R上的数组做分割，大于基准的放一边，小于基准的放一边；
+//然后继续对两边做这种分割。
     static void quickSort(int[] arr, int L, int R) {
         if (L < R) {
 //            随机快排， 每次将中间随机一个数和数列最后一个元素交换位置，防止逆序数列产生差的结果
