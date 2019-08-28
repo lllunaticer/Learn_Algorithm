@@ -78,6 +78,7 @@ public class 完全背包问题 {
     }
 
     //使用一维滚动数组优化，注意完全背包的内循环转移方向是从左往右更新的。（分析过程见Overview.md）
+    //完全背包问题最终版本
     int dfs_best(){
         for(int i = 1; i<=n;i++){
             for(int j = v[i]; j<= m; j++)

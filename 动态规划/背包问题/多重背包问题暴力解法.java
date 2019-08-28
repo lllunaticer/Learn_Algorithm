@@ -29,7 +29,7 @@ package 背包问题;
 
 import java.util.Scanner;
 
-public class 多重背包问题 {
+public class 多重背包问题暴力解法 {
     int N = 110;
     int n, m;//n代表物品编号
     int[] v = new int[N];
@@ -63,7 +63,7 @@ public class 多重背包问题 {
     }
 
     public static void main(String[] args) {
-        多重背包问题 s = new 多重背包问题();
+        多重背包问题暴力解法 s = new 多重背包问题暴力解法();
         s.initialization();
         int res = s.dfs_row();
         System.out.println(res);
