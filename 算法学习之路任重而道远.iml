@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/次常见算法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/图论" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Archive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/动态规划" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/outField/短网址服务" />
     </content>
     <orderEntry type="inheritedJdk" />
