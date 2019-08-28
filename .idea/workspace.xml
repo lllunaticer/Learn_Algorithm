@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/背包问题/Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/ShortestPathAlgorithmOverview.md" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法学习之路任重而道远.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法学习之路任重而道远.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,87 +42,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
+        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="-760">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#374#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/ShortestPathAlgorithmOverview.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="111">
-                <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1277">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java">
+        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2600">
-              <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/testhere.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="333">
+                <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -136,12 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/剑指Offer66/把字符串转化为整数.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/构建乘积数组.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/表示数值的字符串.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/未完成_动态规划字符串_正则表达式匹配.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/二叉搜索树的第k个节点.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/字符流中第一个不重复的数.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/循环与递归_二叉搜索树的第k个节点.java" />
         <option value="$PROJECT_DIR$/次常见算法/LRU1.java" />
         <option value="$PROJECT_DIR$/次常见算法/LRU算法/说明.md" />
@@ -184,9 +134,15 @@
         <option value="$PROJECT_DIR$/图论/ShortestPathAlgorithmOverview.md" />
         <option value="$PROJECT_DIR$/图论/最短路径/SPFA算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java" />
-        <option value="$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" />
+        <option value="$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java" />
+        <option value="$PROJECT_DIR$/动态规划/背包问题/Overview.md" />
+        <option value="$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java" />
       </list>
     </option>
   </component>
@@ -196,9 +152,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="752" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="738" />
+    <option name="y" value="17" />
     <option name="width" value="1084" />
     <option name="height" value="1090" />
   </component>
@@ -222,7 +178,13 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="领扣" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="背包问题" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +200,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566959957539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566990627510" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning_Record" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -253,6 +215,7 @@
       <recent name="E:\githubproject\leetcode_practice\outField\短网址服务" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\githubproject\leetcode_practice\Archive" />
       <recent name="E:\githubproject\leetcode_practice\图论\最短路径" />
       <recent name="E:\githubproject\leetcode_practice\剑指Offer66" />
     </key>
@@ -439,7 +402,7 @@
       <workItem from="1566818165230" duration="3338000" />
       <workItem from="1566825289244" duration="327000" />
       <workItem from="1566825650976" duration="16608000" />
-      <workItem from="1566894409407" duration="13355000" />
+      <workItem from="1566894409407" duration="30009000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -704,7 +667,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="526593000" />
+    <option name="totallyTimeSpent" value="543247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -716,9 +679,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="602" y="44" width="867" height="872" extended-state="0" />
+    <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.384901" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07127735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -795,37 +759,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_二叉树的镜像.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#757#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/循环和递归_对称的二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" column="40" lean-forward="true" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/数组_顺时针打印矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/栈和队列_包含min函数的栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/模拟_栈的压入弹出序列.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1124,30 +1057,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/ShortestPathAlgorithmOverview.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="111">
-            <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1161,10 +1074,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Overview.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="319">
+            <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="52">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1173,22 +1127,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="78">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1277">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="333">
+            <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java">
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="-760">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
         </state>
       </provider>
     </entry>
