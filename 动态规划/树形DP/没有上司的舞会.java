@@ -56,20 +56,20 @@ public class 没有上司的舞会 {
     boolean[] has_father = new boolean[N];
 
     //为邻接表添加新的出边的函数，采用头插法, 把b节点插入到以a为头节点的链表中
-    void add(int a, int b) {
+    private void add(int a, int b) {
         e[idx] = b;
         ne[idx] = h[a];
         h[a] = idx;
         idx++;
     }
 
-    void initialization() {
+    private void initialization() {
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         //读入每个节点的快乐值
         for (int i = 1; i <= n; i++)
             happy[i] = sc.nextInt();
-        //初始化每个邻接链表的头指针为-1
+        //初始化邻接链表的头指针为-1
         Arrays.fill(h, -1);
         //按照题目接下来有n-1条边，读入这些边加入邻接表
         for (int i = 1; i <= n - 1; i++) {
@@ -82,7 +82,7 @@ public class 没有上司的舞会 {
     }
 
     //根据Overview.md中推导的状态转移方程计算f[u][1]和f[u][0]
-    void dfs(int u){
+    private void dfs(int u){
         f[u][1] = happy[u];//首先，f[u][1]标识从u的子树中选并选择u节点，故要先加上u的快乐值
         //根据状态转移方程，从u的子树中得到f[u][0]和f[u][1]
         //遍历子树
@@ -96,6 +96,8 @@ public class 没有上司的舞会 {
     }
 
     int solve(){
+        //初始化读入数据
+        initialization();
         //先查找树的root
         int root = 1;
         while(has_father[root])
@@ -106,7 +108,6 @@ public class 没有上司的舞会 {
 
     public static void main(String[] args) {
         没有上司的舞会 s = new 没有上司的舞会();
-        s.initialization();
         int res = s.solve();
         System.out.println(res);
     }
