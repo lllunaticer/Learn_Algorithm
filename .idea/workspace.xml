@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/动态规划/背包问题/二维费用背包问题.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/树形DP/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/树形DP/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/动态规划/背包问题/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/背包问题/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法学习之路任重而道远.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法学习之路任重而道远.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/��̬�滮/��������/���ر�������������Ż��ⷨ.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,32 +41,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java">
+        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            <state relative-caret-position="335">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#0#374#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="81" column="4" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
+        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="475">
-                <caret line="245" column="56" selection-start-line="245" selection-start-column="56" selection-end-line="245" selection-end-column="56" />
+              <first_editor relative-caret-position="449">
+                <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -71,65 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/混合背包问题.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/二维费用背包问题.java">
+        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/剑指Offer66/堆_数据流的中位数.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/多重背包问题暴力解法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/多重背包问题二进制优化解法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/分组背包问题.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/背包问题/多重背包问题单调队列优化解法.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+            <state relative-caret-position="387">
+              <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -150,10 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/InsertSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/排序查找/MergeSort.java" />
-        <option value="$PROJECT_DIR$/排序查找/二分查找模板_返回最接近目标值下标.java" />
         <option value="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" />
         <option value="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" />
         <option value="$PROJECT_DIR$/排序查找/HeapSort.java" />
@@ -190,7 +127,6 @@
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java" />
-        <option value="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/多重背包问题.java" />
@@ -199,8 +135,13 @@
         <option value="$PROJECT_DIR$/动态规划/背包问题/混合背包问题.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/多重背包问题单调队列优化解法.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/多重背包问题二进制优化解法.java" />
-        <option value="$PROJECT_DIR$/动态规划/背包问题/Overview.md" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/二维费用背包问题.java" />
+        <option value="$PROJECT_DIR$/动态规划/背包问题/Overview.md" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" />
+        <option value="$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md" />
+        <option value="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" />
+        <option value="$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java" />
+        <option value="$PROJECT_DIR$/动态规划/树形DP/Overview.md" />
       </list>
     </option>
   </component>
@@ -210,11 +151,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="178" />
-    <option name="y" value="56" />
-    <option name="width" value="1084" />
-    <option name="height" value="1090" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="905" />
+    <option name="width" value="930" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -242,7 +182,23 @@
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="树形DP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
               <item name="背包问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="图论" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -258,7 +214,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567071565240" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567146807522" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning_Record" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -268,14 +224,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\githubproject\leetcode_practice\动态规划\树形DP\pics" />
+      <recent name="E:\githubproject\leetcode_practice\数据结构\用数组模拟链表\pics" />
+      <recent name="E:\githubproject\leetcode_practice\图论\最短路径算法模板\pics" />
+      <recent name="E:\githubproject\leetcode_practice\动态规划\背包问题\pics" />
+      <recent name="E:\githubproject\leetcode_practice\Archive" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\githubproject\leetcode_practice\剑指Offer66" />
       <recent name="E:\githubproject\leetcode_practice\outField\短网址服务" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\githubproject\leetcode_practice\Archive" />
-      <recent name="E:\githubproject\leetcode_practice\图论\最短路径" />
-      <recent name="E:\githubproject\leetcode_practice\剑指Offer66" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -725,7 +683,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="571065000" />
+    <option name="totallyTimeSpent" value="586751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -737,10 +695,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="549" y="21" width="867" height="872" extended-state="0" />
+    <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14108911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18348624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -817,29 +775,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.PNG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/链表_复杂链表的复制.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="40" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="11" selection-end-line="46" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#1377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_链表_二叉搜索树与双向链表.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/树_序列化二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -1057,13 +992,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/背包问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题.java" />
     <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2600">
@@ -1095,23 +1024,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Overview.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="319">
-            <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
         </state>
       </provider>
     </entry>
@@ -1191,11 +1103,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/二维费用背包问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Overview.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="245" column="56" selection-start-line="245" selection-start-column="56" selection-end-line="245" selection-end-column="56" />
+          <first_editor relative-caret-position="-357">
+            <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1203,10 +1127,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/二维费用背包问题.java">
+    <entry file="file://$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="619">
+            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="335">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="643">
+            <caret line="247" column="8" selection-start-line="247" selection-start-column="8" selection-end-line="247" selection-end-column="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="449">
+            <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
         </state>
       </provider>
     </entry>
