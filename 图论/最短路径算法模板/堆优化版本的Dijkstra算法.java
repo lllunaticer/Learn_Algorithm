@@ -56,7 +56,7 @@ public class 堆优化版本的Dijkstra算法 {
 
     final int INF = Integer.MAX_VALUE >> 1;
 
-    //为邻接表添加一条数据的模板
+    //为邻接表添加一条数据的模板。添加一条a-->b的边， 权重是c.新建一个节点idx，节点的值e[idx] = b, 节点的权重w[idx] = c, 节点的下个节点指针指向以a为头节点的那个链表的头节点的下一个节点，然后把以头节点指向idx.
     void add(int a, int b, int c) {
         e[idx] = b;
         w[idx] = c;

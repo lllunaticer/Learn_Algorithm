@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法1枚举每行搜索_推荐解法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/排列数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/单调队列/Overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数据结构/单调队列/滑动窗口.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Archive/面试算法题/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/面试算法题/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/��̬�滮/��������/���ر�������������Ż��ⷨ.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,8 +60,8 @@
         <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="150">
+                <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -77,11 +70,35 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="58" column="126" selection-start-line="58" selection-start-column="126" selection-end-line="58" selection-end-column="126" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -152,7 +169,6 @@
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法判断有无负环.java" />
-        <option value="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" />
         <option value="$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/_01背包问题.java" />
         <option value="$PROJECT_DIR$/动态规划/背包问题/完全背包问题.java" />
@@ -178,8 +194,9 @@
         <option value="$PROJECT_DIR$/图论/n皇后问题.java" />
         <option value="$PROJECT_DIR$/图论/Main.java" />
         <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题.java" />
-        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" />
         <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" />
+        <option value="$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java" />
       </list>
     </option>
   </component>
@@ -189,7 +206,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="111" />
     <option name="y" value="-30" />
     <option name="width" value="1200" />
@@ -237,7 +254,7 @@
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
               <item name="图论" type="462c0819:PsiDirectoryNode" />
-              <item name="搜索与遍历_BFS_DFS_树和图的遍历" type="462c0819:PsiDirectoryNode" />
+              <item name="最短路径算法模板" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
@@ -476,7 +493,7 @@
       <workItem from="1567251932647" duration="69000" />
       <workItem from="1567252042917" duration="11361000" />
       <workItem from="1567272235858" duration="434000" />
-      <workItem from="1567304953757" duration="3091000" />
+      <workItem from="1567304953757" duration="4663000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -741,7 +758,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="614591000" />
+    <option name="totallyTimeSpent" value="616163000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -756,7 +773,7 @@
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538787" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15796897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -765,7 +782,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7136812" visible="true" weight="0.1300268" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7136812" weight="0.1300268" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.40080428" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1001,26 +1018,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/SPFA算法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -1210,18 +1207,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法1枚举每行搜索_推荐解法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
@@ -1232,7 +1217,39 @@
     <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="71" column="6" selection-start-line="71" selection-start-column="6" selection-end-line="71" selection-end-column="6" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/朴素Dijkstra算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/堆优化版本的Dijkstra算法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="58" column="126" selection-start-line="58" selection-start-column="126" selection-end-line="58" selection-end-column="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
