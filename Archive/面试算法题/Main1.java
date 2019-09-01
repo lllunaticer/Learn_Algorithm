@@ -1,4 +1,4 @@
-public class Main {
+public class Main1 {
     static int max = Integer.MIN_VALUE;
     static int[][] arr;
     static int m;

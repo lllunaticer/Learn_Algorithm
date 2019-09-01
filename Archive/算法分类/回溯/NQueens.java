@@ -22,8 +22,7 @@ Explanation: There exist two distinct solutions to the 4-queens puzzle as shown 
 * */
 package 回溯;
 
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class NQueens {
 
