@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
+      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法1枚举每行搜索_推荐解法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/排列数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/单调队列/Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构/单调队列/滑动窗口.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/树形DP/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/树形DP/Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/动态规划/背包问题/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/动态规划/背包问题/Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法学习之路任重而道远.iml" beforeDir="false" afterPath="$PROJECT_DIR$/算法学习之路任重而道远.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Archive/面试算法题/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Archive/面试算法题/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/��̬�滮/��������/���ر�������������Ż��ⷨ.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,23 +43,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/数据结构/单调队列/Overview.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/Overview.md">
+        <entry file="file://$PROJECT_DIR$/数据结构/单调队列/滑动窗口.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="449">
-                <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <first_editor relative-caret-position="104">
+                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -67,10 +78,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java">
+        <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
+            <state relative-caret-position="338">
+              <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法1枚举每行搜索_推荐解法.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/排列数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -91,17 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/MergeSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/QuickSort.java" />
-        <option value="$PROJECT_DIR$/排序查找/HeapSort.java" />
-        <option value="$PROJECT_DIR$/草稿本/排序草稿本/HeapSort.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/二分查找_数字在排序数组中出现的次数.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/数组中的重复数字.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/数组_二维数组中的查找.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/字符串_替换空格.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/链表_从尾到头打印链表.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/查找和排序_旋转数组的最小数字.java" />
-        <option value="$PROJECT_DIR$/剑指Offer66/回溯法_矩阵中的路径.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/链表_在O1时间删除链表结点.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/字符串_表示数值的字符串.java" />
         <option value="$PROJECT_DIR$/剑指Offer66/循环和递归_对称的二叉树.java" />
@@ -142,6 +169,17 @@
         <option value="$PROJECT_DIR$/动态规划/树形DP/没有上司的舞会.java" />
         <option value="$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java" />
         <option value="$PROJECT_DIR$/动态规划/树形DP/Overview.md" />
+        <option value="$PROJECT_DIR$/数据结构/单调队列/单调队列.java" />
+        <option value="$PROJECT_DIR$/数据结构/单调队列/滑动窗口.java" />
+        <option value="$PROJECT_DIR$/数据结构/单调队列/Overview.md" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Main.java" />
+        <option value="$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/排列数字.java" />
+        <option value="$PROJECT_DIR$/图论/n皇后问题.java" />
+        <option value="$PROJECT_DIR$/图论/Main.java" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题.java" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md" />
+        <option value="$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java" />
       </list>
     </option>
   </component>
@@ -151,10 +189,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="905" />
-    <option name="width" value="930" />
-    <option name="height" value="1088" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="111" />
+    <option name="y" value="-30" />
+    <option name="width" value="1200" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -176,19 +215,18 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
+              <item name="Archive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Archive" type="462c0819:PsiDirectoryNode" />
+              <item name="面试算法题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
               <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="树形DP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
-              <item name="背包问题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
@@ -198,7 +236,19 @@
             <path>
               <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="图论" type="462c0819:PsiDirectoryNode" />
+              <item name="搜索与遍历_BFS_DFS_树和图的遍历" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
               <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_pratice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="单调队列" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,14 +264,15 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567146807522" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567247608004" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java_Learning_Record" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.16054715" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -248,20 +299,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testhere">
-    <configuration name="朴素Dijkstra算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="朴素Dijkstra算法" />
-      <module name="算法学习之路任重而道远" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="排序草稿本.HeapSort" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="排列数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="搜索与遍历_BFS_DFS_树和图的遍历.排列数字" />
       <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="排序草稿本.*" />
+          <option name="PATTERN" value="搜索与遍历_BFS_DFS_树和图的遍历.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,8 +313,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二分查找_数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二分查找_数字在排序数组中出现的次数" />
+    <configuration name="朴素Dijkstra算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="朴素Dijkstra算法" />
+      <module name="算法学习之路任重而道远" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="算法学习之路任重而道远" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -283,8 +334,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="n皇后问题解法1枚举每行搜索_推荐解法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="搜索与遍历_BFS_DFS_树和图的遍历.n皇后问题解法1枚举每行搜索_推荐解法" />
       <module name="算法学习之路任重而道远" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -299,11 +350,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.n皇后问题解法1枚举每行搜索_推荐解法" />
+        <item itemvalue="Application.排列数字" />
         <item itemvalue="Application.testhere" />
         <item itemvalue="Application.朴素Dijkstra算法" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.二分查找_数字在排序数组中出现的次数" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -419,6 +470,13 @@
       <workItem from="1566825289244" duration="327000" />
       <workItem from="1566825650976" duration="16608000" />
       <workItem from="1566894409407" duration="57827000" />
+      <workItem from="1567154770132" duration="664000" />
+      <workItem from="1567219505441" duration="5831000" />
+      <workItem from="1567249250890" duration="1170000" />
+      <workItem from="1567251932647" duration="69000" />
+      <workItem from="1567252042917" duration="11361000" />
+      <workItem from="1567272235858" duration="434000" />
+      <workItem from="1567304953757" duration="3091000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -683,7 +741,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586751000" />
+    <option name="totallyTimeSpent" value="614591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,7 +756,7 @@
     <frame x="-7" y="-7" width="1476" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18348624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -707,8 +765,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32841823" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7141849" weight="0.06434316" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.16353887" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7136812" visible="true" weight="0.1300268" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8665988" weight="0.40080428" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
@@ -716,7 +774,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3297587" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.2858151" side_tool="true" weight="0.18364611" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.28631875" side_tool="true" visible="true" weight="0.121983916" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49964714" weight="0.424933" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.45978552" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -775,70 +833,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/树_序列化二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/递归_分类_字符串的排列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#1855#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/发散思维能力_数组中出现次数超过一半的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="24" selection-end-line="41" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/时间效率_最小的K个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="35" column="11" lean-forward="true" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/前缀和_连续子数组的最大和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/整数中1出现的个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#1104#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/把数字翻译成字符串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指Offer66/把数组排成最小的数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/剑指Offer66/数字序列中某一位的数字.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -993,16 +987,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/动态规划/背包问题.java" />
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Floyd算法.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1110,16 +1094,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Overview.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-357">
-            <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <first_editor relative-caret-position="619">
+            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1127,11 +1106,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/用数组模拟链表/Overview.md">
+    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="619">
-            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <first_editor relative-caret-position="643">
+            <caret line="247" column="8" selection-start-line="247" selection-start-column="8" selection-end-line="247" selection-end-column="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="397">
+            <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1149,34 +1147,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/背包问题/Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="643">
-            <caret line="247" column="8" selection-start-line="247" selection-start-column="8" selection-end-line="247" selection-end-column="8" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/Overview.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="449">
-            <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/动态规划/树形DP/有依赖的背包问题.java">
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
+        <state relative-caret-position="1045">
+          <caret line="100" column="57" selection-start-line="100" selection-start-column="57" selection-end-line="100" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/最短路径算法模板/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="57" lean-forward="true" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/单调队列/滑动窗口.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Archive/算法分类/回溯/NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/排列数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/单调队列/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/Overview.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法1枚举每行搜索_推荐解法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/图论/搜索与遍历_BFS_DFS_树和图的遍历/n皇后问题解法2枚举每个格子搜索.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
         </state>
       </provider>
     </entry>
