@@ -5,7 +5,6 @@
 2，5，3}，那么对应的输出是重复的数字2或者3。
 * */
 
-
 public class 数组中的重复数字 {
     // Parameters:
     //    numbers:     an array of integers
