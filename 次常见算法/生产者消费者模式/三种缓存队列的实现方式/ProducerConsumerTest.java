@@ -8,8 +8,8 @@ public class ProducerConsumerTest {
     public static void main(String[] args) {
         PublicQueue publicQueue = new PublicQueue_LinkedHashMap_Lock实现();
 //        可替换公共缓存队列的实现方式
-//        PublicQueue publicQueue = new PublicQueue2();
-//        PublicQueue publicQueue = new PublicQueue3();
+//        PublicQueue publicQueue = new PublicQueue_LinkedHashMap_Synchronized实现();
+//        PublicQueue publicQueue = new PublicQueue_blockingDeque实现();
         ProducerThread producerThread = new ProducerThread(publicQueue);
         ConsumerThread consumerThread = new ConsumerThread(publicQueue);
         producerThread.start();//启动生产者线程

@@ -15,7 +15,7 @@ public class ProducerThread extends Thread {
 
     @Override
     public void run() {
-        for(int i=0;i<60;i++){
+        for(int i=0;i<600;i++){
             publicQueue.add(String.valueOf(i));
         }
     }

@@ -55,8 +55,8 @@ public class 求一组数前k大的数 {
     }
 
     public static void main(String[] args) {
-        int[] vec = {3, 1, 2, 5, 10, 6, 30, 7};
-        int k = 4;
+        int[] vec = {5, 7, 8, 3, 9, 3, 4};
+        int k = 6;
         findKBiggestHeap(vec,k);
 
         int start = findLargestK(vec, 0, vec.length, k);
