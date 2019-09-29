@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b044cc90-a2e1-45b2-8b48-e0833744be4e" name="Default Changelist" comment="加入草稿本，用来自我演练代码">
-      <change afterPath="$PROJECT_DIR$/动态规划/线性DP/Overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/线性DP/pics/数字三角形.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/线性DP/数字三角形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/动态规划/线性DP/最长上升子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/排序查找/两路QuickSort参考.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/有质量的面试题/两路QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/有质量的面试题/求一组数前k大的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/findKLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/草稿本/排序草稿本/quickSortDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java" beforeDir="false" afterPath="$PROJECT_DIR$/图论/最短路径算法模板/Bellman_Ford算法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/排序查找/二分查找模板_返回最接近目标值下标.java" beforeDir="false" afterPath="$PROJECT_DIR$/排序查找/二分查找模板_返回最接近目标值下标.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/有质量的面试题/求一组数前k大的数.java" beforeDir="false" afterPath="$PROJECT_DIR$/有质量的面试题/求一组数前k大的数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/次常见算法/FIFO.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/次常见算法/生产者消费者模式/三种缓存队列的实现方式/ProducerConsumerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/次常见算法/生产者消费者模式/三种缓存队列的实现方式/ProducerConsumerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/次常见算法/生产者消费者模式/三种缓存队列的实现方式/ProducerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/次常见算法/生产者消费者模式/三种缓存队列的实现方式/ProducerThread.java" afterDir="false" />
@@ -110,26 +108,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.两路QuickSort参考">
+  <component name="RunManager" selected="Application.findKLargest">
     <configuration name="ProducerConsumerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="生产者消费者模式.三种缓存队列的实现方式.ProducerConsumerTest" />
       <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="生产者消费者模式.三种缓存队列的实现方式.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="生产者消费者模式.LinkedHashMap_Synchronized实现.ProducerConsumerTest" />
-      <module name="算法学习之路任重而道远" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="生产者消费者模式.LinkedHashMap_Lock实现.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="生产者消费者模式.链表_Synchronized朴素实现.Test" />
+    <configuration name="findKLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.findKLargest" />
       <module name="算法学习之路任重而道远" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="生产者消费者模式.链表_Synchronized朴素实现.*" />
+          <option name="PATTERN" value="排序草稿本.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,13 +162,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quickSortDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序草稿本.quickSortDouble" />
+      <module name="算法学习之路任重而道远" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序草稿本.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.两路QuickSort参考" />
+        <item itemvalue="Application.findKLargest" />
         <item itemvalue="Application.求一组数前k大的数" />
+        <item itemvalue="Application.quickSortDouble" />
+        <item itemvalue="Application.两路QuickSort参考" />
         <item itemvalue="Application.ProducerConsumerTest (1)" />
-        <item itemvalue="Application.ProducerConsumerTest (1)" />
-        <item itemvalue="Application.ProducerConsumerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +328,18 @@
       <workItem from="1568553561704" duration="689000" />
       <workItem from="1568618569723" duration="3285000" />
       <workItem from="1568732983654" duration="5012000" />
-      <workItem from="1568768356714" duration="1646000" />
+      <workItem from="1568768356714" duration="11153000" />
+      <workItem from="1568857923947" duration="791000" />
+      <workItem from="1568889945459" duration="13000" />
+      <workItem from="1568960897312" duration="731000" />
+      <workItem from="1568963434789" duration="1830000" />
+      <workItem from="1568974699372" duration="392000" />
+      <workItem from="1568975381587" duration="606000" />
+      <workItem from="1568983462980" duration="50000" />
+      <workItem from="1569122655480" duration="1249000" />
+      <workItem from="1569289286732" duration="5244000" />
+      <workItem from="1569322258062" duration="40000" />
+      <workItem from="1569578027160" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="单词接龙">
       <created>1551700805560</created>
@@ -662,80 +671,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>算法学习之路任重而道远</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

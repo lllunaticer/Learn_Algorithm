@@ -19,6 +19,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Archive" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/动态规划" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/数据结构" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ACwing剑指OFFER" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/有质量的面试题" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/outField/短网址服务" />
     </content>
     <orderEntry type="inheritedJdk" />
