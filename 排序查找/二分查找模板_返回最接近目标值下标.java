@@ -21,7 +21,7 @@ public class 二分查找模板_返回最接近目标值下标 {
         return L;
     }
 
-    //区间划分为[L，mid-1],[mid, R]。返回待查找元素的下标，如果不存在，则返回最接近的小于该元素的元素下标
+    //区间划分为[L，mid-1],[mid, R]。返回待查找元素的下标，如果不存在，则返回最接近的小于该元素的元素下标。此时计算mid要+1
     static int binarySearch_LargestSmall(int target, int[] arr) {
         int L = 0;
         int R = arr.length - 1;
