@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/数据结构" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ACwing剑指OFFER" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/有质量的面试题" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/单调栈" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/outField/短网址服务" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -34,8 +35,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-  </component>
-  <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="3d0f9920-9e84-48d9-bd82-726b7863c982" />
   </component>
 </module>

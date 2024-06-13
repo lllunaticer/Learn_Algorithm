@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 
 /*
 * 从 1~n 这 n 个整数中随机选取任意多个，输出所有可能的选择方案。
