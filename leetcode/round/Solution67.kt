@@ -1,6 +1,4 @@
-package 领扣.刷题
-
-import com.sun.org.apache.xml.internal.security.keys.keyresolver.KeyResolver.length
+package leetcode.round
 
 /**
  * Anything that can go wrong will go wrong

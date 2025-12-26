@@ -1,12 +1,12 @@
-package 领扣.刷题
+package leetcode.round
 
 /**
  * Anything that can go wrong will go wrong
  * @author Xingjian LONG <longxingjian@kuaishou.com>
- * @date 2025-12-23
+ * @date 2025-12-26
  */
-class Solution {
-    fun maxTwoEvents(events: Array<IntArray>): Int {
+class Solution503 {
+    fun nextGreaterElements(nums: IntArray): IntArray {
         TODO()
     }
 }
